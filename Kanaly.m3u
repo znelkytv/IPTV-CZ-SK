@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y2g5gwa17d92ngz7"
+#EXTINF:-1 tvg-id="CT1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",ČT1 HD
+http://185.188.188.235/live/ct1/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct2hd.png" group-title="Všeobecné",ČT2 HD
 http://146.59.85.40:89/ct2/index.m3u8
 #EXTINF:-1 tvg-id="CT24(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct24hd.png" group-title="Zpravodajské / News",ČT24 HD
