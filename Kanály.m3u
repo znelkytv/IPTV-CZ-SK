@@ -111,6 +111,8 @@ http://185.188.188.235/live/eurosport/playlist.m3u8
 http://185.188.188.235/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
 http://84.42.140.148:8880/hdmi
+#EXTINF:-1 tvg-id="O2TVInfo.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvinfo.png" group-title="Extra kanály / Extra channels",O2 TV Info
+https://vst25-3.o2tv.cz/at/b0cc08cf8da01d36fefcae4aa7240646/1697871185929/subscr/543531-1498064677384/468b5718-6837-4711-9386-dc6e924adada/999-tv-pc.mpd
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilmhd.png" group-title="Filmy a seriály / Movies and serials",CS Film / CS Horror
 http://185.188.188.235/live/csfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="CSHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistoryhd.png" group-title="Historie / History",CS History
