@@ -153,6 +153,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoBlack.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoblack.png" group-title="Hudební / Music",Óčko Black HD
 https://stream.moderntv.eu/stream.m3u8?content-id=channel:ocko_blackHD&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast,vast,adaptive2,webvtt,h265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=548a03e04c8eae12ecb4049b4f0f73ae79215a564a898b73c5993a66638d2978
+#EXTINF:-1 tvg-id="StingrayCMusic.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nic.png" group-title="Hudební / Music",Stingray CMusic
+http://amazingiptv.life:8080/P3n9KDzM8e9p/JgpUbn2Lwrra/257931
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
 http://185.188.188.235/live/paprika/playlist.m3u8
 #EXTINF:-1 tvg-id="Foodnetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/foodnetwork.png" group-title="Vaření / Cooking",Discovery Food Network
