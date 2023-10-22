@@ -4,7 +4,7 @@ Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naš
 
 # Přehled aktualizací a novinek
 **- 22. říjen 2023, 10:05**
-*dočasně přidány kanály Skylink 7, Stingray CMusic a Mňam TV*
+*dočasně přidány kanály Skylink 7, Stingray CMusic a Mňam TV / přidány kanály Cartoon Network, Discovery a Discovery Science*
 
 **- 21. říjen 2023**
 
