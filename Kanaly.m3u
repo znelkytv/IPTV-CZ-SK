@@ -103,6 +103,8 @@ http://185.188.188.235/live/jimjam/playlist.m3u8
 http://185.188.188.235/live/minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="DuckTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ducktv.png" group-title="Pro děti / For kids",Duck TV
 http://185.188.188.235/live/ducktv/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cartoonnetwork.png" group-title="Pro děti / For kids",Cartoon Network
+http://185.188.188.235/live/cartoonnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1
 http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2
