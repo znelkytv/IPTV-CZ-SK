@@ -13,6 +13,8 @@ https://sktv-forwarders.7m.pl/get.php?x=CTart
 https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://ctfs.ceskatelevize.cz/static/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg" group-title="Extra kanály / Extra channels",iVysílání Extra
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
+#EXTINF:-1 tvg-id="Skylink7.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/skylink7.png" group-title="Všeobecné",Skylink 7 HD
+http://amazingiptv.life:8080/P3n9KDzM8e9p/JgpUbn2Lwrra/257907
 #EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novahd.png" group-title="Všeobecné",Nova HD
 http://185.188.188.235/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinemahd.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
@@ -155,6 +157,8 @@ https://stream.moderntv.eu/stream.m3u8?content-id=channel:ocko_blackHD&content-e
 http://185.188.188.235/live/paprika/playlist.m3u8
 #EXTINF:-1 tvg-id="Foodnetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/foodnetwork.png" group-title="Vaření / Cooking",Discovery Food Network
 https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Afood_network&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=a3456ccd3265fc3037358bf46c1cfe6fd72097777a715821a528831e3cb038a9
+#EXTINF:-1 tvg-id="MnamTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mňam TV
+http://amazingiptv.life:8080/P3n9KDzM8e9p/JgpUbn2Lwrra/257917
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Vitznau-Rigi ve Švýcarsku
