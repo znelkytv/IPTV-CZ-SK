@@ -3,6 +3,9 @@ Online televize s více než 100 českými programy bez poplatků. Nový balíč
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 23. říjen 2023**
+*odstraněny kanály Filmbox ArtHouse, O2TV Info, Discovery science a Food Network z důvodu nefunkčnosti*
+
 **- 22. říjen 2023, 10:05**
 *dočasně přidány kanály Skylink 7, Stingray CMusic a Mňam TV / přidány kanály Cartoon Network, Discovery a Discovery Science*
 
