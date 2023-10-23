@@ -71,8 +71,6 @@ http://185.188.188.235/live/filmbox/playlist.m3u8
 http://185.188.188.235/live/filmboxpremium/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxStars(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxstars.png" group-title="Filmy a seriály / Movies and serials",Filmbox Stars
 http://185.188.188.235/live/filmboxstars/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmboxArtHouse.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxarthouse.png" group-title="Filmy a seriály / Movies and serials",Filmbox ArtHouse
-http://185.188.188.235/live/filmboxarthouse/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxFamily(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxfamily.png" group-title="Filmy a seriály / Movies and serials",Filmbox Family
 http://185.188.188.235/live/filmboxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Filmy a seriály / Movies and serials",AMC
@@ -115,8 +113,6 @@ http://185.188.188.235/live/eurosport/playlist.m3u8
 http://185.188.188.235/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
 http://84.42.140.148:8880/hdmi
-#EXTINF:-1 tvg-id="O2TVInfo.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvinfo.png" group-title="Extra kanály / Extra channels",O2 TV Info
-https://vst25-3.o2tv.cz/at/b0cc08cf8da01d36fefcae4aa7240646/1697871185929/subscr/543531-1498064677384/468b5718-6837-4711-9386-dc6e924adada/999-tv-pc.mpd
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilmhd.png" group-title="Filmy a seriály / Movies and serials",CS Film / CS Horror
 http://185.188.188.235/live/csfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="CSHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistoryhd.png" group-title="Historie / History",CS History
@@ -133,8 +129,6 @@ http://185.188.188.235/live/viasatnature/playlist.m3u8
 http://146.59.85.40:89/docubox/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discovery.png" group-title="Dokumentární / Documents",Discovery
 http://185.188.188.235/live/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discoveryscience.png" group-title="Dokumentární / Documents",Discovery Science
-http://185.188.188.235/live/discoveryscience/playlist.m3u8
 #EXTINF:-1 tvg-id="DTX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/dtx.png" group-title="Nezařazeno",Discovery Turbo Xtra
 https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Aworld&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=c645faf0395b10364e1b2d4fa262eb3ad285fecd81d73846562d26cd3f70b085
 #EXTINF:-1 tvg-id="CrimeandInvestigation(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/crimeandinvestigation.png" group-title="Krimi",Crime & Investigation
@@ -163,8 +157,6 @@ https://stream.moderntv.eu/stream.m3u8?content-id=channel:ocko_blackHD&content-e
 http://amazingiptv.life:8080/P3n9KDzM8e9p/JgpUbn2Lwrra/257931
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
 http://185.188.188.235/live/paprika/playlist.m3u8
-#EXTINF:-1 tvg-id="Foodnetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/foodnetwork.png" group-title="Vaření / Cooking",Discovery Food Network
-https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Afood_network&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=a3456ccd3265fc3037358bf46c1cfe6fd72097777a715821a528831e3cb038a9
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mňam TV
 http://amazingiptv.life:8080/P3n9KDzM8e9p/JgpUbn2Lwrra/257917
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Praha na dlani
