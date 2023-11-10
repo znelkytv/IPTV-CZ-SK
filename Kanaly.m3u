@@ -24,23 +24,17 @@ http://146.59.85.40:89/primalovehd/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaZOOM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Dokumentární / Documents",Prima Zoom HD
 http://146.59.85.40:89/primazoomhd/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaMAX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima Max HD
-*
+https://prima-ott-live-sec.ssl.cdn.cra.cz/n0t2O4A2nCJ4aTlw3Pxduw==,1699717290/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PRIMAKRIMI(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Krimi",Prima Krimi HD
-*
+https://prima-ott-live-sec.ssl.cdn.cra.cz/xsZ3ixWh5wA9Zvi6uJzgyg==,1699718104/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaStar(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="Archivní",Prima Star 
-*
+https://prima-ott-live-sec.ssl.cdn.cra.cz/f3wP0kx-dqa5-Y7oJ7A-sA==,1699718174/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PRIMASHOW(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="Reality show",Prima Show 
-*
+https://prima-ott-live-sec.ssl.cdn.cra.cz/Yydl7IxVrxAtiYZG3NH0ZQ==,1699718230/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanewshd.png" group-title="Zpravodajské / News",CNN Prima News (576p)
-*
+https://prima-ott-live-sec.ssl.cdn.cra.cz/8UrBHAR0XNihBvm2citCnw==,1699716342/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
 http://84.42.140.148:8880/hdmi
-#EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilmhd.png" group-title="Filmy a seriály / Movies and serials",CS Film / CS Horror
-*
-#EXTINF:-1 tvg-id="CSHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistoryhd.png" group-title="Historie / History",CS History
-* 
-#EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery
-*
 #EXTINF:-1 tvg-id="Docubox(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/docubox.png" group-title="Dokumentární / Documents",DocuBox
 http://146.59.85.40:89/docubox/mono.m3u8
 #EXTINF:-1 tvg-id="DTX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/dtx.png" group-title="Nezařazeno",Discovery Turbo Xtra
