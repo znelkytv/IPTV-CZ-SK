@@ -11,8 +11,18 @@ https://sktv-forwarders.7m.pl/get.php?x=CTsport
 https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctart.png" group-title="Umění a kultura / Art and culture",ČT art HD
 https://sktv-forwarders.7m.pl/get.php?x=CTart
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://ctfs.ceskatelevize.cz/static/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg" group-title="Extra kanály / Extra channels",iVysílání Extra
+#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
+#EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
+http://78.130.250.2:8023/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
+http://78.130.250.2:8023/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="NOVAACTION(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD
+http://78.130.250.2:8023/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
+http://78.130.250.2:8023/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
+http://78.130.250.2:8023/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="PremierSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/premiersporthd.png" group-title="Sportovní / Sport",Premier Sport 1 HD
 http://84.42.140.147:8890/hdmi
 #EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD
@@ -35,6 +45,16 @@ https://prima-ott-live-sec.ssl.cdn.cra.cz/Yydl7IxVrxAtiYZG3NH0ZQ==,1699718230/ch
 https://prima-ott-live-sec.ssl.cdn.cra.cz/8UrBHAR0XNihBvm2citCnw==,1699716342/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
 http://84.42.140.148:8880/hdmi
+#EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport HD
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/golfchannel.png" group-title="Sportovní / Sport",Golf Channel
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD
+http://78.130.250.2:8023/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror
+http://78.130.250.2:8023/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="HBO(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
+http://78.130.250.2:8023/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="Docubox(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/docubox.png" group-title="Dokumentární / Documents",DocuBox
 http://146.59.85.40:89/docubox/mono.m3u8
 #EXTINF:-1 tvg-id="DTX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/dtx.png" group-title="Nezařazeno",Discovery Turbo Xtra
@@ -45,6 +65,10 @@ https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Asat_crime_invest&con
 http://95.67.12.82:9086
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentární / Documents",Love Nature HD
 http://95.67.12.82:9098
+#EXTINF:-1 tvg-id="NationalGeographicChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nationalgeographic.png" group-title="Dokumentární / Documents",National Geographic HD
+http://78.130.250.2:8023/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/natgeowild.png" group-title="Dokumentární / Documents",National Geographic Wild HD
+http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="OCKO(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudební / Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-id="OCKOEXPRES(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoexpres.png" group-title="Hudební / Music",Óčko Expres
