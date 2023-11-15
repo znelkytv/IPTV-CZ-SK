@@ -101,6 +101,8 @@ https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
 https://live.idnes.cz/slow/zoobrno_720p/manifest.m3u8
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Krmítko v americkém Ohiu
 https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Poslanecká sněmovna
+https://live.idnes.cz/live/pspcr_720p/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Regionální / Regional channels",Polar TV HD
 https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Extra kanály / Extra channels",Polar 2 HD
