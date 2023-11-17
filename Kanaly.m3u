@@ -77,36 +77,40 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoBlack.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoblack.png" group-title="Hudební / Music",Óčko Black HD
 https://stream.moderntv.eu/stream.m3u8?content-id=channel:ocko_blackHD&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast,vast,adaptive2,webvtt,h265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=548a03e04c8eae12ecb4049b4f0f73ae79215a564a898b73c5993a66638d2978
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Praha na dlani
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Vitznau-Rigi ve Švýcarsku
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Vitznau-Rigi ve Švýcarsku
 https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Včelí úl
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Včelí úl
 https://live.idnes.cz/slow/vcely2_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Království železnic Praha (9 - 19 hodin)
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Království železnic Praha (9 - 19 hodin)
 https://live.idnes.cz/slow/kralovstvizeleznic_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Nádraží Praha - Smíchov
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Praha - Smíchov
 https://live.idnes.cz/slow/vytopna_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Kutná Hora hl. n.
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Kutná Hora hl. n.
 https://live.idnes.cz/slow/kutnahora_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Barrandovský most
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Barrandovský most
 https://live.idnes.cz/slow/barandak_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Nádraží Jaroměř
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Nádraží Jaroměř
 https://live.idnes.cz/slow/jaromer_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Hroši - ZOO Dvůr Králové nad Labem
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Hroši - ZOO Dvůr Králové nad Labem
 https://live.idnes.cz/slow/hrosi_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Letiště Václava Havla v Praze
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Letiště Václava Havla v Praze
 https://live.idnes.cz/slow/planespotting_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Lední medvědi - ZOO Brno
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Lední medvědi - ZOO Brno
 https://live.idnes.cz/slow/zoobrno_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Krmítko v americkém Ohiu
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Krmítko v americkém Ohiu
 https://live.idnes.cz/slow/krmitkousa_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: Poslanecká sněmovna
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Poslanecká sněmovna
 https://live.idnes.cz/live/pspcr_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: ČTK 1
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: ČTK
 https://live.idnes.cz/live/ctk1_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="Extra kanály / Extra channels",iDNES TV: TVU 3
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 1
+https://live.idnes.cz/live/tvu2_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 2
 https://live.idnes.cz/live/tvu3_720p/manifest.m3u8
+#EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 3
+https://live.idnes.cz/live/tvu4_720p/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Regionální / Regional channels",Polar TV HD
 https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Extra kanály / Extra channels",Polar 2 HD
