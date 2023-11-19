@@ -120,11 +120,11 @@ https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="tvbrno1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tvbrno1.cz/images/layout/header/logo.png" group-title="Regionální / Regional channels",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/retro.png" group-title="Hudební / Music",RetroMusicTV (360p)
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w518103583_b750000.m3u8
+https://stream.mediawork.cz/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerMuzika(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.3eGkSGnVG5axj7Gu7vvm8gAAAA&pid=Api&P=0&h=180" group-title="Hudební / Music",Šlágr Muzika
 https://stream-33.mazana.tv/slagr2.m3u
 #EXTINF:-1 tvg-id="SlagrTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Hudební / Music",Šlágr Originál
-https://stream-6.mazana.tv/slagr.m3u
+.
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Regionální / Regional channels",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNoe(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvnoehd.png" group-title="Náboženský",TV Noe
@@ -134,20 +134,16 @@ https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Regionální / Regional channels",JČ1 regionální televize
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="KuryrTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Regionální / Regional channels",Kurýr TV
-https://stream-35.mazana.tv/jc2.jc.m3u8
+.
 #EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jtv.png" group-title="Regionální / Regional channels",Jihočeská TV HD
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="JOJFamily.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family
-http://st02.lab.cho01.iptv.grapesc.cz/272-tv-stb.m3u8
+.
 #EXTINF:-1 tvg-id="TelevizeUTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/utvHD.png" group-title="Regionální / Regional channels",ÚTV
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/294520547_713222049977264_6728061186036109251_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1xeYuxqZ4gYAX9ZPP-Q&_nc_ht=scontent-prg1-1.xx&oh=00_AfDQyg96S5mWMWOttyyMPHsvxl845ggZv6QNoH653-CRtQ&oe=64EE5C86" group-title="Regionální / Regional channels",OIK TV HD
 https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/zakplzen.png" group-title="Regionální / Regional channels",Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="TVM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/264580096_4533837876714774_1705708732114468637_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=K4qSuuPVRnoAX9GpCUl&_nc_ht=scontent-prg1-1.xx&oh=00_AfBih8TnxnA9i36p7-k9uQEZR-1nuYEXbIP7nLwkjD5T4Q&oe=64EECA9F" group-title="Regionální / Regional channels",TV Morava
-https://ythls.onrender.com/channel/UCW33LPZQ1SA7ByUW6GeKRGw.m3u8
-#EXTINF:-1 tvg-id="TVMohelnice.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="-" group-title="Regionální / Regional channels",TV Mohelnice
-https://ythls.onrender.com/channel/UCr8xNHreYlR3gOjXnd82PBQ.m3u8
 #EXTINF:-1 tvg-id="MNAUTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Zvířata / Animals",Mňau TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
