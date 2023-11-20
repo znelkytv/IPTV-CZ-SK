@@ -124,7 +124,9 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerMuzika(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.3eGkSGnVG5axj7Gu7vvm8gAAAA&pid=Api&P=0&h=180" group-title="Hudební / Music",Šlágr Muzika
 https://stream-33.mazana.tv/slagr2.m3u
 #EXTINF:-1 tvg-id="SlagrTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Hudební / Music",Šlágr Originál
-.
+https://stream-13.mazana.tv/slagroriginal.m3u
+#EXTINF:-1 tvg-id="-" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Hudební / Music",Šlágr Premium
+https://stream-17.mazana.tv/slagrpremium.m3u
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Regionální / Regional channels",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNoe(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvnoehd.png" group-title="Náboženský",TV Noe
@@ -134,11 +136,11 @@ https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Regionální / Regional channels",JČ1 regionální televize
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="KuryrTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Regionální / Regional channels",Kurýr TV
-.
+https://stream-18.mazana.tv/kuryrtv.m3u8s
 #EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/jtv.png" group-title="Regionální / Regional channels",Jihočeská TV HD
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="JOJFamily.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family
-.
+https://live.cdn.joj.sk/live/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="TelevizeUTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/utvHD.png" group-title="Regionální / Regional channels",ÚTV
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/oiktv.png" group-title="Regionální / Regional channels",OIK TV HD
