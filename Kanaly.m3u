@@ -45,7 +45,7 @@ https://prima-ott-live-sec.ssl.cdn.cra.cz/Yydl7IxVrxAtiYZG3NH0ZQ==,1699718230/ch
 https://prima-ott-live-sec.ssl.cdn.cra.cz/8UrBHAR0XNihBvm2citCnw==,1699716342/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
 http://84.42.140.148:8880/hdmi
-#EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport HD
+#EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport HD
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/golfchannel.png" group-title="Sportovní / Sport",Golf Channel
 http://78.130.250.2:8023/play/a02q/index.m3u8
@@ -117,9 +117,9 @@ https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
 #EXTINF:-1 tvg-id="PrahaTV.eu" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Regionální / Regional channels",Praha TV HD
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="tvbrno1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tvbrno1.cz/images/layout/header/logo.png" group-title="Regionální / Regional channels",TV BRNO 1 HD
+#EXTINF:-1 tvg-id="tvbrno1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Regionální / Regional channels",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/retro.png" group-title="Hudební / Music",RetroMusicTV (360p)
+#EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/retromusictv.png" group-title="Hudební / Music",RetroMusicTV (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerMuzika(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.3eGkSGnVG5axj7Gu7vvm8gAAAA&pid=Api&P=0&h=180" group-title="Hudební / Music",Šlágr Muzika
 https://stream-33.mazana.tv/slagr2.m3u
@@ -135,13 +135,13 @@ https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="KuryrTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Regionální / Regional channels",Kurýr TV
 .
-#EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jtv.png" group-title="Regionální / Regional channels",Jihočeská TV HD
+#EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/jtv.png" group-title="Regionální / Regional channels",Jihočeská TV HD
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="JOJFamily.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family
 .
 #EXTINF:-1 tvg-id="TelevizeUTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/utvHD.png" group-title="Regionální / Regional channels",ÚTV
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/294520547_713222049977264_6728061186036109251_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1xeYuxqZ4gYAX9ZPP-Q&_nc_ht=scontent-prg1-1.xx&oh=00_AfDQyg96S5mWMWOttyyMPHsvxl845ggZv6QNoH653-CRtQ&oe=64EE5C86" group-title="Regionální / Regional channels",OIK TV HD
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/oiktv.png" group-title="Regionální / Regional channels",OIK TV HD
 https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/zakplzen.png" group-title="Regionální / Regional channels",Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
