@@ -125,7 +125,7 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://stream-33.mazana.tv/slagr2.m3u
 #EXTINF:-1 tvg-id="SlagrTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Hudební / Music",Šlágr Originál
 https://stream-13.mazana.tv/slagroriginal.m3u
-#EXTINF:-1 tvg-id="-" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Hudební / Music",Šlágr Premium
+#EXTINF:-1 tvg-id="SlagrPremium(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Hudební / Music",Šlágr Premium
 https://stream-17.mazana.tv/slagrpremium.m3u
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Regionální / Regional channels",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
