@@ -3,6 +3,9 @@ Online televize s českými programy bez poplatků. Nový balíček založen z d
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 28. listopad 2023**
+*nově byla spuštěna žádost o přidání kanálu přes záložku Issues (problémy). K žádosti může, ale nemusí být uveden štítek "new channel"*
+
 **- 11. listopad 2023, 9:54**
 *vráceny kanály Nova, Nova Cinema, Nova Action, Nova Sport 1 a 2, Canal+ Sport, Sport 1, CS Film / Horror, HBO, National Geographic a National Geographic Wild / přidán kanál Golf Channel*
 
