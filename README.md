@@ -4,7 +4,7 @@ Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naš
 
 # Přehled aktualizací a novinek
 **- 28. listopad 2023**
-*nově byla spuštěna žádost o přidání kanálu přes záložku Issues (problémy). K žádosti může, ale nemusí být uveden štítek "new channel"*
+*nově byla spuštěna žádost o přidání kanálu přes záložku Issues (problémy). K žádosti může, ale nemusí být uveden štítek "new channel". Můžete také přiložit M3U8 link.*
 
 **- 11. listopad 2023, 9:54**
 *vráceny kanály Nova, Nova Cinema, Nova Action, Nova Sport 1 a 2, Canal+ Sport, Sport 1, CS Film / Horror, HBO, National Geographic a National Geographic Wild / přidán kanál Golf Channel*
