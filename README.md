@@ -3,6 +3,9 @@ Online televize s českými programy bez poplatků. Nový balíček založen z d
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- od 4. prosince 2023**
+*přidávají se slovenské kanály na přání uživatele lukinojej. Seznam kanálů najdete v souboru*
+
 **- 28. listopad 2023**
 *nově byla spuštěna žádost o přidání kanálu přes záložku Issues (problémy). K žádosti může, ale nemusí být uveden štítek "new channel". Můžete také přiložit M3U8 link.*
 
