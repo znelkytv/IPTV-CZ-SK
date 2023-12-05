@@ -9,11 +9,11 @@ https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
 http://213.81.133.133:8080/dajto/index.m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://play-lh.googleusercontent.com/3St36NzP4ctVT4_UyftsKh-wmymTkVBzEP-Z7HQeJEQX5F0R-XCUgLJ3bP4XXB_6Ono" group-title="Všeobecné",TV JOJ HD
 http://88.212.11.199:5000/live/test_joj_hd_high_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/294783831_462410589220706_6510636311358178807_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=jGLSpw9fypYAX-VD6xH&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfBfdp9EUVdSNh7cuLnN8TqQyu5ebayRJaodhNUAwBe4bA&oe=65721A11" group-title="Filmové",JOJ Plus
-https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-id="Wau(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/292049175_2164139153761004_5560430984120439891_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YlwL11Bh-DsAX--Nl3_&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfAVztUNYIA_OX1L3qrN7MtKamy9FP9islOPJ3Z2SONLjA&oe=6572A5CD" group-title="Filmové",JOJ WAU
-https://nn.geo.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:-1 tvg-id="JOJ24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/336730112_2512501062230177_4211478320385801963_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=R1VW1IknvZ4AX8Xbev7&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfDenncjfHMHbctWi_BxA1SY4ZcppAoNTJUph-sA7A3Hhg&oe=6572BC43" group-title="Zpravodajské",JOJ News HD
+#EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/294783831_462410589220706_6510636311358178807_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=jGLSpw9fypYAX-VD6xH&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfBfdp9EUVdSNh7cuLnN8TqQyu5ebayRJaodhNUAwBe4bA&oe=65721A11" group-title="Filmové",JOJ Plus HD
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+#EXTINF:-1 tvg-id="Wau(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/292049175_2164139153761004_5560430984120439891_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YlwL11Bh-DsAX--Nl3_&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfAVztUNYIA_OX1L3qrN7MtKamy9FP9islOPJ3Z2SONLjA&oe=6572A5CD" group-title="Filmové",JOJ WAU HD
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+#EXTINF:-1 tvg-id="JOJ24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/336730112_2512501062230177_4211478320385801963_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=R1VW1IknvZ4AX8Xbev7&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfDenncjfHMHbctWi_BxA1SY4ZcppAoNTJUph-sA7A3Hhg&oe=6572BC43" group-title="Zpravodajské",JOJ 24 HD
 https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
 #EXTINF:-1 tvg-id="NRSR(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://scontent.fbrq1-1.fna.fbcdn.net/v/t39.30808-6/336730112_2512501062230177_4211478320385801963_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=R1VW1IknvZ4AX8Xbev7&_nc_ht=scontent.fbrq1-1.fna&oh=00_AfDenncjfHMHbctWi_BxA1SY4ZcppAoNTJUph-sA7A3Hhg&oe=6572BC43" group-title="Extra kanály",NRSR
 https://live.cdn.joj.sk/live/andromeda/nrsr/live.m3u8
