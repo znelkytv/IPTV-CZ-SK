@@ -1,10 +1,12 @@
-#EXTM3U url-tvg="-"
+#EXTM3U url-tvg="http://m3u4u.com/xml/v158yx3z3jf677j1n9mw"
 #EXTINF:-1 tvg-id="Jednotka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka
 http://213.81.133.133:8080/jednotka/index.m3u8
 #EXTINF:-1 tvg-id="Dvojka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_of_Dvojka_%282012-%29.png" group-title="Všeobecné",Dvojka
 http://213.81.133.133:8080/dvojka/index.m3u8
-#EXTINF:-1 tvg-id="STV24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtvs-24-sk.svg" group-title="Zpravodajské",RTVS 24
+#EXTINF:-1 tvg-id="STV24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/759-trojka.png" group-title="Zpravodajské",RTVS 24 HD
 https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+#EXTINF:-1 tvg-id="RTVSSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",RTVS Šport HD
+https://sktv-forwarders.7m.pl/get.php?x=SPORT
 #EXTINF:-1 tvg-id="Dajto(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Filmové",Markíza Dajto
 http://213.81.133.133:8080/dajto/index.m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
@@ -15,7 +17,15 @@ https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
 https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
 #EXTINF:-1 tvg-id="JOJ24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/961-joj-24-hd.png" group-title="Zpravodajské",JOJ 24 HD
 https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
+#EXTINF:-1 tvg-id="JOJSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/817-joj-sport-hd.png" group-title="Športové",JOJ Šport HD
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Športové",Jojko HD
+https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
 #EXTINF:-1 tvg-id="NRSR(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/961-joj-24-hd.png" group-title="Extra kanály",NRSR
 https://live.cdn.joj.sk/live/andromeda/nrsr/live.m3u8
 #EXTINF:-1 tvg-id="Senzi(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI
 https://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",Central TV
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV Osem
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
