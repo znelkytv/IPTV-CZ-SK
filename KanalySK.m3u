@@ -29,5 +29,13 @@ https://lb.streaming.sk/senzi/stream/playlist.m3u8
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 #EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV Osem
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDoktor(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Všeobecné",TV Doktor HD
+#EXTINF:-1 tvg-id="TVDoktor(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor HD
 https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Lifestyle",Fashion TV
+https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Lux TV
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/chunklist_b1042000.m3u8
+#EXTINF:-1 tvg-id="LifeTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Life TV
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="TVRaj(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Raj
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
