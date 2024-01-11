@@ -113,6 +113,8 @@ http://433668139993754773.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754773.ts
 http://433668139993754688.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754688.ts
 #EXTINF:-1 tvg-id="ViasatHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/viasathistory.png" group-title="Dokumentární / Documents",Viasat History HD (dočasný)
 http://433668139993754688.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754689.ts
+#EXTINF:-1 tvg-id="ViasatNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/viasatnature.png" group-title="Dokumentární / Documents",Viasat Nature HD (dočasný)
+http://433668139993754688.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754690.ts
 #EXTINF:-1 tvg-id="OCKO(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudební / Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-id="OCKOEXPRES(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoexpres.png" group-title="Hudební / Music",Óčko Expres
