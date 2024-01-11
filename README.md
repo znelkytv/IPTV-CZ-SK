@@ -3,6 +3,9 @@ Online televize s českými a slovenskými programy bez poplatků. Nový balíč
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 11. leden 2024, 17:40**
+*přidány piktogramy 🔊 pro označení "Multi-Audia" (více zvukových stop/mono a stereo zvuk) a 📜 pro označení kanálu s titulky / dočasně přidány kanály Nova Fun - Gold - Lady, Markíza International, Seznam.cz TV, Disney Channel, JimJam, Minimax, Nickelodeon, Nicktoons, JOJ Cinema, Filmobx - Premium - Extra - Family, Epic Drama, AMC, AXN, Travel Channel, Viasat Explore - Nature - History a REBEL (očekávaný konec platnosti kanálů: 30. říjen 2024)*
+
 **- 8. leden 2024, 8:44**
 *kanály Prima Max, Krimi, Star, Show a CNN opraveny a vráceny zpět*
 
