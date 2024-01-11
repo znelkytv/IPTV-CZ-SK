@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/j67zn62j27um37dknd1w"
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",ČT1 HD (internetová verze)
 https://sktv-forwarders.7m.pl/get.php?x=CT1
-#EXTINF:-1 tvg-id="CT1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",ČT1 HD (dočasný)
+#EXTINF:-1 tvg-id="CT1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",ČT1 HD 🔊 (dočasný)
 http://433668139993754611.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754611.ts
 #EXTINF:-1 tvg-id="CT2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct2hd.png" group-title="Všeobecné",ČT2 HD
 http://146.59.85.40:89/ct2/index.m3u8
@@ -15,11 +15,11 @@ https://sktv-forwarders.7m.pl/get.php?x=CTart
 https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
-#EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
+#EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD 🔊📜🦻
 http://78.130.250.2:8023/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
+#EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD 📜
 http://78.130.250.2:8023/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="NOVAACTION(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD
+#EXTINF:-1 tvg-id="NOVAACTION(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD 📜
 http://78.130.250.2:8023/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="NovaFUN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Zábavný / Funny",Nova Fun HD (dočasný)
 http://433668139993754659.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754659.ts
@@ -28,7 +28,7 @@ http://433668139993754660.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754660.ts
 #EXTINF:-1 tvg-id="NovaLady(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Pro ženy / For ladies",Nova Lady HD (dočasný)
 http://433668139993754661.ofd0111.xyz:80/play/vi1027284/9FGPcXFVRYF/754661.ts
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
-http://78.130.250.2:8023/play/a02z/index.m3u8
+http://78.130.250.2:8023/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
 http://78.130.250.2:8023/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="MarkizaInt(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/markizainternational.png" group-title="Všeobecné",Markíza International (dočasný)
