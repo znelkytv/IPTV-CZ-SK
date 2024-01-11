@@ -4,7 +4,7 @@ Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naš
 
 # Přehled aktualizací a novinek
 **- 11. leden 2024, 17:40**
-*přidány piktogramy 🔊 pro označení "Multi-Audia" (více zvukových stop/mono a stereo zvuk) a 📜 pro označení kanálu s titulky / dočasně přidány kanály Nova Fun - Gold - Lady, Markíza International, Seznam.cz TV, Disney Channel, JimJam, Minimax, Nickelodeon, Nicktoons, JOJ Cinema, Filmobx - Premium - Extra - Family, Epic Drama, AMC, AXN, Travel Channel, Viasat Explore - Nature - History a REBEL (očekávaný konec platnosti kanálů: 30. říjen 2024)*
+*přidány piktogramy 🔊 pro označení "Multi-Audia" (více zvukových stop/mono a stereo zvuk), 📜 pro označení kanálu s titulky a 🦻 pro kanál s opatřením audiodeskripce (zvukového popisu) / dočasně přidány kanály Nova Fun - Gold - Lady, Markíza International, Seznam.cz TV, Disney Channel, JimJam, Minimax, Nickelodeon, Nicktoons, JOJ Cinema, Filmobx - Premium - Extra - Family, Epic Drama, AMC, AXN, Travel Channel, Viasat Explore - Nature - History a REBEL (očekávaný konec platnosti kanálů: 30. říjen 2024)*
 
 **- 8. leden 2024, 8:44**
 *kanály Prima Max, Krimi, Star, Show a CNN opraveny a vráceny zpět*
