@@ -15,8 +15,6 @@ http://iptvtree.net:8080/F26646/f950f250/174685
 https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctart.png" group-title="Umění a kultura / Art and culture",ČT art HD (internetová verze)
 https://sktv-forwarders.7m.pl/get.php?x=CTart
-#EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="Pro děti / For kids" group-title="Umění a kultura / Art and culture",ČT :D/art HD (dočasný)
-http://iptvtree.net:8080/F26646/f950f250/299622
 #EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD 🔊📜🦻
