@@ -4,7 +4,7 @@ Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naš
 
 # Přehled aktualizací a novinek
 **- 20. leden 2024, 14:15**
-*smazán kanál Docubox z důvodu chybějící podpory stopy a titulků v českém jazyce / dočasně vráceny kanály Markíza International, Paramount Network, Relax, Barrandov Krimi, Kino Barrandov, Sport 2, Nick Jr., Cartoonito a CS Mystery a přidány kanály CANAL+ Sport 2, Filmbox Stars, Cinemax a Film Europe + (očekávaný konec platnosti kanálů: 25. prosinec 2024)*
+*smazán kanál Docubox z důvodu chybějící podpory stopy a titulků v českém jazyce / dočasně vráceny kanály Markíza International, Paramount Network, Relax, Barrandov Krimi, Kino Barrandov, Nick Jr., Cartoonito a CS Mystery a přidány kanály CANAL+ Sport 2, Filmbox Stars, Cinemax a Film Europe + (očekávaný konec platnosti kanálů: 25. prosinec 2024)*
 
 **- 13. leden 2024, 8:56**
 *dočasně přidány kanály Nova Sport 3 - 4, Eurosport 1, CS History, History a TV Paprika (očekávaný konec platnosti kanálů není znám)*
