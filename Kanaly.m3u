@@ -85,6 +85,8 @@ http://78.130.250.2:8023/play/a02v/index.m3u8
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD 🔊
 http://78.130.250.2:8023/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD (dočasný)
+http://peak4k.xyz:8080/hasangemici/16101990/278606
 #EXTINF:-1 tvg-id="Eurosport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport1.png" group-title="Sportovní / Sport",Eurosport 1 HD (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/46693
 #EXTINF:-1 tvg-id="Eurosport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport2.png" group-title="Sportovní / Sport",Eurosport 2 HD (dočasný)
@@ -159,6 +161,8 @@ http://peak4k.xyz:8080/hasangemici/16101990/278506
 http://iptvtree.net:8080/F26646/f950f250/46725
 #EXTINF:-1 tvg-id="ViasatExplorer(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/viasatexplore.png" group-title="Dokumentární / Documents",Viasat Explore (dočasný)
 http://peak4k.xyz:8080/hasangemici/16101990/278495
+#EXTINF:-1 tvg-id="NatureTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",Nature TV (dočasný)
+http://peak4k.xyz:8080/hasangemici/16101990/278593
 #EXTINF:-1 tvg-id="DiscoveryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discovery.png" group-title="Dokumentární / Documents",Discovery (dočasný)
 http://peak4k.xyz:8080/hasangemici/16101990/278512
 #EXTINF:-1 tvg-id="InvestigationDiscovery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/investigationdiscovery.png" group-title="Dokumentární / Documents",Investigation Discovery (dočasný)
