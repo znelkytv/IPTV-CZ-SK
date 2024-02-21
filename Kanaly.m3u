@@ -167,7 +167,7 @@ http://545162547455787046.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787046.ts
 http://iptvtree.net:8080/F26646/f950f250/46725
 #EXTINF:-1 tvg-id="ViasatExplorer(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/viasatexplore.png" group-title="Dokumentární / Documents",Viasat Explore HD (dočasný)
 http://545162547455787044.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787044.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discovery.png" group-title="Dokumentární / Documents",Discovery HD 🔊 (dočasný)
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discovery.png" group-title="Dokumentární / Documents",Discovery HD (dočasný)
 http://545162547455786981.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/786981.ts
 #EXTINF:-1 tvg-id="OCKO(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudební / Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
