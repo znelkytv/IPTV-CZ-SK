@@ -77,8 +77,6 @@ http://545162547455754756.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/754756.ts
 http://545162547455754770.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/754770.ts
 #EXTINF:-1 tvg-id="Relax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/83382
-#EXTINF:-1 tvg-id="A11(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1563-a11-hd.png" group-title="Všeobecné",A11 HD (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278448
 #EXTINF:-1 tvg-id="TVBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",TV Barrandov HD 🔊 (dočasný)
 http://545162547455786976.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/786976.ts
 #EXTINF:-1 tvg-id="KinoBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/kinobarrandov.png" group-title="Filmy a seriály / Movies and serials",Kino Barrandov HD (dočasný)
@@ -98,7 +96,7 @@ http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD 🔊
 http://78.130.250.2:8023/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278606
+http://545162547455780444.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/780444.ts
 #EXTINF:-1 tvg-id="DisneyChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/799-disney-channel.png" group-title="Pro děti / For kids",Disney Channel (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/21118
 #EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Pro děti / For kids",JimJam 🔊 (dočasný)
@@ -119,8 +117,6 @@ http://545162547455754607.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/754607.ts
 http://78.130.250.2:8023/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/286853
-#EXTINF:-1 tvg-id="CSHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistory.png" group-title="Dokumentární / Documents",CS History HD (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278502
 #EXTINF:-1 tvg-id="JOJCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/295046
 #EXTINF:-1 tvg-id="Filmbox(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmbox.png" group-title="Filmy a seriály / Movies and serials",Filmbox HD (dočasný)
@@ -137,10 +133,6 @@ http://545162547455786991.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/786991.ts
 http://545162547455786987.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/786987.ts
 #EXTINF:-1 tvg-id="AXN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Filmy a seriály / Movies and serials",AXN (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/21105
-#EXTINF:-1 tvg-id="AXNBlack(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axnblack.png" group-title="Filmy a seriály / Movies and serials",AXN Black 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278543
-#EXTINF:-1 tvg-id="AMC(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Filmy a seriály / Movies and serials",AMC HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278550
 #EXTINF:-1 tvg-id="Filmplus(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/film%2B.png" group-title="Filmy a seriály / Movies and serials",Flim+ HD (dočasný)
 http://545162547455754711.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/754711.ts
 #EXTINF:-1 tvg-id="HBO(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD 🔊📜
@@ -149,14 +141,8 @@ http://78.130.250.2:8023/play/a02s/index.m3u8
 http://545162547455787059.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787059.ts
 #EXTINF:-1 tvg-id="HBO3(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo3.png" group-title="Filmy a seriály / Movies and serials",HBO 3 HD 🔊 (dočasný)
 http://545162547455782012.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/782012.ts
-#EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278537
 #EXTINF:-1 tvg-id="FILMEUROPEPLUS(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeuropeplus.png" group-title="Filmy a seriály / Movies and serials",Film Europe + HD (dočasný)
 http://545162547455754709.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/754709.ts
-#EXTINF:-1 tvg-id="Cinemax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cinemax.png" group-title="Filmy a seriály / Movies and serials",Cinemax HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278539
-#EXTINF:-1 tvg-id="Cinemax2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cinemax2.png" group-title="Filmy a seriály / Movies and serials",Cinemax 2 HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278540
 #EXTINF:-1 tvg-id="STORY4(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/story4.png" group-title="Filmy a seriály / Movies and serials",Story 4 HD (dočasný)
 http://545162547455757365.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/757365.ts
 #EXTINF:-1 tvg-id="EEntertainment(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eentertainment.png" group-title="Filmy a seriály / Movies and serials",E! Entertaniment (dočasný)
@@ -164,8 +150,6 @@ http://545162547455787056.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787056.ts
 #EXTINF:-1 tvg-id="CrimeandInvestigation(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/crimeandinvestigation.png" group-title="Krimi",Crime & Investigation 🔊📜
 https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Asat_crime_invest&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=9d234ddda50f1754b8a029f5f42e4af4b0dab73b77d24a9d33eb592ea0a0eef1
 #EXTINF:-1 tvg-id="TRAVELCHANNEL(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/travelchannel.png" group-title="Cestování / Travel",Travel Channel HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278509
-#EXTINF:-1 tvg-id="TravelXP.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/travelxp.png" group-title="Cestování / Travel",TravelXP HD 🔊 (dočasný)
 http://545162547455787038.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787038.ts
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentární / Documents",Love Nature HD 🔊📜 (přepnout zvuk na CZ)
 http://95.67.12.82:9098
@@ -183,16 +167,8 @@ http://545162547455787046.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787046.ts
 http://iptvtree.net:8080/F26646/f950f250/46725
 #EXTINF:-1 tvg-id="ViasatExplorer(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/viasatexplore.png" group-title="Dokumentární / Documents",Viasat Explore HD 🔊 (dočasný)
 http://545162547455787044.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787044.ts
-#EXTINF:-1 tvg-id="NatureTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",Nature TV HD (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278593
 #EXTINF:-1 tvg-id="DiscoveryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discovery.png" group-title="Dokumentární / Documents",Discovery HD 🔊 (dočasný)
 http://545162547455786981.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/786981.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/investigationdiscovery.png" group-title="Dokumentární / Documents",Investigation Discovery HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278505
-#EXTINF:-1 tvg-id="HGTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hgtv.png" group-title="",Discovery HGTV HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278520
-#EXTINF:-1 tvg-id="TLC(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tlc.png" group-title="",Discovery TLC HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278522
 #EXTINF:-1 tvg-id="OCKO(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudební / Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-id="OCKOEXPRES(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoexpres.png" group-title="Hudební / Music",Óčko Expres
@@ -203,18 +179,10 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://stream.moderntv.eu/stream.m3u8?content-id=channel:ocko_blackHD&content-expiration=1678039380&user-id=50929719&device-id=180988413&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast,vast,adaptive2,webvtt,h265&drm-system=&parallel-limit=2&lang=sk&signature-expiration=1678039380&signature-hash=548a03e04c8eae12ecb4049b4f0f73ae79215a564a898b73c5993a66638d2978
 #EXTINF:-1 tvg-id="Rebel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/rebel.png" group-title="Hudební / Music",REBEL (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/121568
-#EXTINF:-1 tvg-id="MTVHitsInternational.co" tvg-country="EU" tvg-language="English" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/415-mtv-hits.png" group-title="Hudební / Music",MTV Hits (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278556
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/46721
-#EXTINF:-1 tvg-id="Foodnetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/foodnetwork.png" group-title="Vaření / Cooking",Discovery Food Network HD 🔊 (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278528
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mňam TV HD (dočasný)
 http://545162547455787006.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/787006.ts
-#EXTINF:-1 tvg-id="HOBBYTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tvhobby.cz/wp-content/uploads/2019/02/hobby_A_RGB.jpg" group-title="Hobby",Hobby TV HD (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278519
-#EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Hobby",Spektrum Home HD (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278519
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Vitznau-Rigi ve Švýcarsku
@@ -249,24 +217,6 @@ https://live.idnes.cz/live/tvu2_720p/manifest.m3u8
 https://live.idnes.cz/live/tvu3_720p/manifest.m3u8
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Stream 3
 https://live.idnes.cz/live/tvu4_720p/manifest.m3u8
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Kočíčí kavárna (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278581
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Mumlavské vodopády (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278582
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Život v ZOO Brno (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278583
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Ošetřování mláďat (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278584
-#EXTINF:-1 tvg-id="KRB(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Krb (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278585
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Pláž (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278586
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Komentovaná krmení - ZOO Brno (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278589
-#EXTINF:-1 tvg-id="Akvarium(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Korálová zahrada - Akvárium (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278591
-#EXTINF:-1 tvg-id="sledovanitv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/fc/5f/91fc5f3e-58cc-e743-eb90-71a26ee589bf/AppIcon_stv-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg" group-title="Smyčky sledovanitv.cz",Sledování TV: Galerie zvířat (dočasný)
-http://peak4k.xyz:8080/hasangemici/16101990/278592
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Regionální / Regional channels",Polar TV HD
 https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Extra kanály / Extra channels",Polar 2 HD
