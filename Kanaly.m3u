@@ -89,7 +89,7 @@ http://84.42.140.148:8880/hdmi
 http://84.42.140.147:8890/hdmi
 #EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport HD
 http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="CanalplusSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplussport2.png" group-title="Sportovní / Sport",CANAL+ Sport 2 HD (dočasný)
+#EXTINF:-1 tvg-id="CanalplusSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplusport2.png" group-title="Sportovní / Sport",CANAL+ Sport 2 HD (dočasný)
 http://545162547455754771.ofd0216.xyz:80/play/2VQNARW8LX/gpdDTCWk@uYp/754771.ts
 #EXTINF:-1 tvg-id="GolfChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/golfchannel.png" group-title="Sportovní / Sport",Golf Channel 🔊
 http://78.130.250.2:8023/play/a02q/index.m3u8
