@@ -25,8 +25,10 @@ https://sktv-forwarders.7m.pl/get.php?x=CTart
 https://sktv-forwarders.7m.pl/get.php?x=CTart
 #EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="",ČT :D/art HD (dočasné)
 http://iptvtree.net:8080/F26646/f950f250/299622
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra
+#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 1
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus9
+#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 2
+https://sktv-forwarders.7m.pl/get.php?x=CTiVysilani1
 #EXTINF:-1 tvg-id="CTsportPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/ctsportplus.png" group-title="Extra kanály / Extra channels",ČT sport Plus 1
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus1
 #EXTINF:-1 tvg-id="CTsportPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/ctsportplus.png" group-title="Extra kanály / Extra channels",ČT sport Plus 2
@@ -45,6 +47,8 @@ https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus7
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus8
 #EXTINF:-1 tvg-id="CTsportPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/ctsportplus.png" group-title="Extra kanály / Extra channels",ČT sport Plus 9
 https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus10
+#EXTINF:-1 tvg-id="CTsportPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/ctsportplus.png" group-title="Extra kanály / Extra channels",ČT sport Plus 10
+https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus11
 #EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD 🔊📜🦻
 http://78.130.250.2:8023/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD 📜
