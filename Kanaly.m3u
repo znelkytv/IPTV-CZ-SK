@@ -223,6 +223,8 @@ https://live.idnes.cz/live/tvu4_720p/manifest.m3u8
 https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Extra kanály / Extra channels",Polar 2 HD
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
+#EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Extra kanály / Extra channels",Polar Extra HD (pouze naplánované přenosy)
+https://stream.polar.cz/livestream/livestream-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PrahaTV.eu" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Regionální / Regional channels",Praha TV HD
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="tvbrno1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Regionální / Regional channels",TV BRNO 1 HD
