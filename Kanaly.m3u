@@ -180,7 +180,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 tvg-id="Rebel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/rebel.png" group-title="Hudební / Music",REBEL (dočasný)
 http://iptvtree.net:8080/F19406/e4fccd99/121568
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika (dočasný)
-http://iptvtree.net:8080/F26646/f950f250/46721
+http://iptvtree.net:8080/F19406/e4fccd99/46721
 #EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Lifestyle",Spektrum Home (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/114995
 #EXTINF:-1 tvg-id="HOBBYTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tvhobby.cz/wp-content/uploads/2019/02/hobby_A_RGB.jpg" group-title="Lifestyle",Hobby TV (dočasný)
