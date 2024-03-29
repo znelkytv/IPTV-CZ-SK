@@ -55,8 +55,8 @@ http://78.130.250.2:8023/play/a02y/index.m3u8
 http://78.130.250.2:8023/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="NOVAACTION(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD 📜
 http://78.130.250.2:8023/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="NOVAFun(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Filmy a seriály / Movies and serials",Nova Fun HD 📜 (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/114967
+#EXTINF:-1 tvg-id="NovaGold(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title="",Nova Gold (dočasný)
+http:\\iptvtree.net:8080\F19406\e4fccd99\21103
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
 http://78.130.250.2:8023/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
@@ -76,7 +76,7 @@ http://146.59.85.40:89/primalovehd/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaZOOM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Dokumentární / Documents",Prima Zoom HD 🔊📜
 http://146.59.85.40:89/primazoomhd/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaMAX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima Max HD 
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+http://iptvtree.net:8080/F19406/e4fccd99/21102
 #EXTINF:-1 tvg-id="PRIMAKRIMI(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Krimi",Prima Krimi HD
 http://iptvtree.net:8080/F26646/f950f250/83414
 #EXTINF:-1 tvg-id="PrimaStar(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="Archivní",Prima Star 
@@ -110,7 +110,7 @@ http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD 🔊
 http://78.130.250.2:8023/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/114996
+http://iptvtree.net:8080/F19406/e4fccd99/46719
 #EXTINF:-1 tvg-id="DisneyChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/799-disney-channel.png" group-title="Pro děti / For kids",Disney Channel (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/114923
 #EXTINF:-1 tvg-id="NICKELODEONJUNIOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickjr.png" group-title="Pro děti / For kids",Nick Jr. (dočasný)
@@ -119,8 +119,8 @@ http://iptvtree.net:8080/F26646/f950f250/201184
 http://server.solanaflix.com:8080/TV-32755078/414603750297/115042
 #EXTINF:-1 tvg-id="Nicktoons(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nicktoons.png" group-title="Pro děti / For kids",NickToons (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/114964
-#EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Pro děti / For kids",Jim Jam (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/115037
+#EXTINF:-1 tvg-id="Minimax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1351-minimax.png" group-title="Pro děti / For kids",Minimax (dočasný)
+http://mohdtv.com:8880/voby3781/17486571/30931
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror
 http://78.130.250.2:8023/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery (dočasný)
@@ -130,9 +130,9 @@ http://server.solanaflix.com:8080/TV-32755078/414603750297/115012
 #EXTINF:-1 tvg-id="JOJCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/295046
 #EXTINF:-1 tvg-id="FilmboxPremium(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxpremium.png" group-title="Filmy a seriály / Movies and serials",Filmbox Premium HD (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/115028
+http://mohdtv.com:8880/voby3781/17486571/30953
 #EXTINF:-1 tvg-id="FilmboxExtra(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxextra.png" group-title="Filmy a seriály / Movies and serials",Filmbox Extra HD (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/115026
+http://iptvtree.net:8080/F19406/e4fccd99/46701
 #EXTINF:-1 tvg-id="FilmboxStars(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxstars.png" group-title="Filmy a seriály / Movies and serials",Filmbox Stars (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/115029
 #EXTINF:-1 tvg-id="FilmboxFamily(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxfamily.png" group-title="Filmy a seriály / Movies and serials",Filmbox Family (dočasný)
@@ -149,6 +149,8 @@ http://78.130.250.2:8023/play/a02s/index.m3u8
 http://server.solanaflix.com:8080/TV-32755078/414603750297/115031
 #EXTINF:-1 tvg-id="HBO3(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo3.png" group-title="Filmy a seriály / Movies and serials",HBO 3 HD 📜 (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/115032
+#EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD (dočasný)
+http://iptvtree.net:8080/F19406/e4fccd99/295047
 #EXTINF:-1 tvg-id="Cinemax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cinemax.png" group-title="Filmy a seriály / Movies and serials",Cinemax HD 📜 (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/115021
 #EXTINF:-1 tvg-id="Cinemax2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cinemax2.png" group-title="Filmy a seriály / Movies and serials",Cinemax 2 HD 📜 (dočasný)
@@ -181,6 +183,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 http://iptvtree.net:8080/F26646/f950f250/121568
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/46721
+#EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",TV Paprika (dočasný)
+http:\\iptvtree.net:8080\F19406\e4fccd99\83423
 #EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Lifestyle",Spektrum Home (dočasný)
 http://server.solanaflix.com:8080/TV-32755078/414603750297/114995
 #EXTINF:-1 tvg-id="HOBBYTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tvhobby.cz/wp-content/uploads/2019/02/hobby_A_RGB.jpg" group-title="Lifestyle",Hobby TV (dočasný)
