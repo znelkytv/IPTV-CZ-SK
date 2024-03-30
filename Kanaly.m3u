@@ -83,10 +83,14 @@ https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_mq.m
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanewshd.png" group-title="Zpravodajské / News",CNN Prima News 
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="ParamountNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/paramountnetwork.png" group-title="Filmy a seriály / Movies and serials",Paramount Network (dočasný)
+http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2220
 #EXTINF:-1 tvg-id="Relax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/83382
 #EXTINF:-1 tvg-id="A11(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11 (dočasný)
 http://startv365.com:80/7795309038/1092686646/473429
+#EXTINF:-1 tvg-id="TVBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",TV Barrandov HD (dočasný)
+http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2253
 #EXTINF:-1 tvg-id="KinoBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/kinobarrandov.png" group-title="Filmy a seriály / Movies and serials",Kino Barrandov HD (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/83394
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
@@ -118,7 +122,7 @@ http://mohdtv.com:8880/voby3781/17486571/30953
 #EXTINF:-1 tvg-id="FilmboxExtra(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxextra.png" group-title="Filmy a seriály / Movies and serials",Filmbox Extra HD (dočasný)
 http://iptvtree.net:8080/F19406/e4fccd99/46701
 #EXTINF:-1 tvg-id="AXN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Filmy a seriály / Movies and serials",AXN (dočasný)
-http://iptvtree.net:8080/F26646/f950f250/21105
+http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2177
 #EXTINF:-1 tvg-id="AMC(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Filmy a seriály / Movies and serials",AMC HD (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/23314
 #EXTINF:-1 tvg-id="HBO(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD 🔊📜
@@ -134,9 +138,9 @@ http://78.130.250.2:8023/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/natgeowild.png" group-title="Dokumentární / Documents",National Geographic Wild HD 🔊📜 (přepnout zvuk na CZ)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrum.png" group-title="Dokumentární / Documents",Spektrum HD (dočasný)
-http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/2964
+http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2233
 #EXTINF:-1 tvg-id="ViasatHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/viasathistory.png" group-title="Dokumentární / Documents",Viasat History HD (dočasný)
-http://iptvtree.net:8080/F26646/f950f250/46725
+http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2240
 #EXTINF:-1 tvg-id="OCKO(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudební / Music",Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-id="OCKOEXPRES(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoexpres.png" group-title="Hudební / Music",Óčko Expres
@@ -148,11 +152,7 @@ http://iptvtree.net:8080/F26646/f950f250/121568
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika (dočasný)
 http://iptvtree.net:8080/F26646/f950f250/46721
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mňam TV (dočasný)
-http:\\iptvtree.net:8080\F19406\e4fccd99\83423
-#EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Lifestyle",Spektrum Home (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/114995
-#EXTINF:-1 tvg-id="HOBBYTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tvhobby.cz/wp-content/uploads/2019/02/hobby_A_RGB.jpg" group-title="Lifestyle",Hobby TV (dočasný)
-http://server.solanaflix.com:8080/TV-32755078/414603750297/115034
+http://iptvtree.net:8080/F19406/e4fccd99/83423
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Praha na dlani
 https://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="iDNES.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/IDNESTVbila.png" group-title="iDNES",iDNES TV: Vitznau-Rigi ve Švýcarsku
