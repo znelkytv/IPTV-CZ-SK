@@ -3,6 +3,9 @@ Online televize s českými a slovenskými programy bez poplatků. Nový balíč
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 30. březen 2024, 14:32**
+*přidána verze s logy pro TV aplikaci M3U IPTV*
+
 **- 18. únor 2024, 10:26**
 *obnoveny kanály Seznam.cz TV, Jim Jam, Minimax, Nickelodeon, Nicktoons, CS Mystery, CS History, Travel XP, Spektrum, Viasat Nature a Viasat Explore / dočasně vráceny kanály A11, TV Barrandov, Barrandov Krimi, Sport 2, Eurosport 2, Filmbox, Filmbox Premium, Epic Drama, AXN Black, AMC, HBO 2, HBO 3, Film Europe +, Cinemax, Travel Channel, Discovery, Discovery TLC, MTV Hits Discovery Food Network, Hobby TV a Spektrum Home (očekávaný konec platnosti kanálů: 30. srpen 2024) / dočasně přidány kanály Film Europe, Cinemax 2, Nature TV, Investigation Discovery, Discovery HGTV a smyčky z platformy Sledování TV (očekávaný konec platnosti kanálů: 30. srpen 2024)*
 
