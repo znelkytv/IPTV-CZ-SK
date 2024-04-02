@@ -99,10 +99,6 @@ http://iptvtree.net:8080/F19406/e4fccd99/83394
 http://84.42.140.148:8880/hdmi
 #EXTINF:-1 tvg-id="PremierSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png" group-title="Sportovní / Sport",Premier Sport 1 HD
 http://84.42.140.147:8890/hdmi
-#EXTINF:-1 tvg-id="Eurosport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_1_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153606" group-title="Sportovní / Sport",Eurosport 1 HD (dočasný)
-http://startv365.com:80/7795309038/1092686646/159623
-#EXTINF:-1 tvg-id="Eurosport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" group-title="Sportovní / Sport",Eurosport 2 HD (dočasný)
-http://startv365.com:80/7795309038/1092686646/159624
 #EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/356x264/image/6172ce7f4a8d1/uploads/media/canal+_sport_logo.png" group-title="Sportovní / Sport",CANAL+ Sport HD
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CanalplusSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="Sportovní / Sport",CANAL+ Sport 2 HD (dočasný)
