@@ -55,8 +55,10 @@ http://78.130.250.2:8023/play/a02y/index.m3u8
 http://78.130.250.2:8023/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="NOVAACTION(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-action.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD 📜
 http://78.130.250.2:8023/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="NovaFUN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-2-2.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD (dočasný)
+http://tvsmart.xyz:8080/deatinakara/WwdAvmM52FGY/74712
 #EXTINF:-1 tvg-id="NOVAGold(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-gold.png" group-title="",Nova Gold (dočasný)
-http:\\iptvtree.net:8080\F19406\e4fccd99\21103
+http://iptvtree.net:8080/F19406/e4fccd99/21103
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://nova-ott-images-tn.ssl.cdn.cra.cz/r793x357/66798f44-eb1a-4d3a-978e-bc8b61002960" group-title="Sportovní / Sport",Nova Sport 1 HD
 http://78.130.250.2:8023/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://nova-ott-images-tn.ssl.cdn.cra.cz/r793x357/85dde7ee-785f-4c1e-94ae-544682f3044d" group-title="Sportovní / Sport",Nova Sport 2 HD
@@ -69,6 +71,8 @@ http://iptvtree.net:8080/F19406/e4fccd99/298866
 http://startv365.com:80/7795309038/1092686646/17033
 #EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima.png" group-title="Všeobecné",Prima HD 🔊📜
 http://146.59.85.40:89/primahd/mono.m3u8
+#EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima.png" group-title="Všeobecné",Prima HD (záložní)
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD 🔊📜
 http://146.59.85.40:89/primacoolhd/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaLOVE(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-love.png" group-title="Pro ženy / For ladies",Prima Love HD 📜
@@ -87,6 +91,8 @@ https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_mq.m
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="ParamountNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-comedy-2.png" group-title="Filmy a seriály / Movies and serials",Paramount Network (dočasný)
 http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2220
+#EXTINF:-1 tvg-id="SeznamczTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/seznam.png" group-title="Všeobecné",Seznam.cz TV HD (dočasný)
+http://tvsmart.xyz:8080/deatinakara/WwdAvmM52FGY/74738
 #EXTINF:-1 tvg-id="Relax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX (dočasný)
 http://iptvtree.net:8080/F19406/e4fccd99/83382
 #EXTINF:-1 tvg-id="A11(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/a11.png" group-title="Všeobecné",A11 (dočasný)
@@ -109,12 +115,16 @@ http://78.130.250.2:8023/play/a02q/index.m3u8
 http://78.130.250.2:8023/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/sport2.png" group-title="Sportovní / Sport",Sport 2 HD (dočasný)
 http://iptvtree.net:8080/F19406/e4fccd99/46719
-#EXTINF:-1 tvg-id="NICKELODEONJUNIOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nick-jr.png" group-title="Pro děti / For kids",Nick Jr. (dočasný)
+#EXTINF:-1 tvg-id="Nickelodeon(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Pro děti / For kids",Nickelodeon (dočasný)
+http://tvsmart.xyz:8080/deatinakara/WwdAvmM52FGY/74724
+#EXTINF:-1 tvg-id="NICKELODEONJUNIOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nickelodeon.png" group-title="Pro děti / For kids",Nick Jr. (dočasný)
 http://iptvtree.net:8080/F19406/e4fccd99/201184
 #EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/jim-jam.png" group-title="Pro děti / For kids",JimJam (dočasný)
 http://startv365.com:80/7795309038/1092686646/159633
 #EXTINF:-1 tvg-id="LALATV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.kuki.cz/media/media_img/LalaTv_logo_bez_pozadia_5IxPANN.png" group-title="Pro děti / For kids",LALA TV (dočasný)
 http://startv365.com:80/7795309038/1092686646/19313
+#EXTINF:-1 tvg-id="DisneyChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/disney-2.png" group-title="Pro děti / For kids",Disney Channel (dočasný)
+http://tvsmart.xyz:8080/deatinakara/WwdAvmM52FGY/74755
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-film-2.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror
 http://78.130.250.2:8023/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-mystery.png" group-title="Dokumentární / Documents",CS Mystery (dočasný)
@@ -143,6 +153,8 @@ http://startv365.com:80/7795309038/1092686646/473441
 http://startv365.com:80/7795309038/1092686646/159622
 #EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/film-europe.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD (dočasný)
 http://iptvtree.net:8080/F19406/e4fccd99/295047
+#EXTINF:-1 tvg-id="STORY4(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Story_4_logo.png" group-title="Filmy a seriály / Movies and serials",Story 4 HD (dočasný)
+http://tvsmart.xyz:8080/deatinakara/WwdAvmM52FGY/74741
 #EXTINF:-1 tvg-id="TravelXP.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127" group-title="Dokumentární / Documents",TravelXP HD (dočasný)
 http://startv365.com:80/7795309038/1092686646/400145837
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Dokumentární / Documents",Love Nature HD 🔊📜 (přepnout zvuk na CZ)
