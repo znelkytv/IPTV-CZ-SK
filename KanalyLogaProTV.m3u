@@ -13,8 +13,12 @@ https://sktv-forwarders.7m.pl/get.php?x=CT1-SVC
 http://iptvtree.net:8080/F19406/e4fccd99/121563
 #EXTINF:-1 tvg-id="CT2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct2.png" group-title="Všeobecné",ČT2 HD
 http://146.59.85.40:89/ct2/index.m3u8
+#EXTINF:-1 tvg-id="CT2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct2.png" group-title="Všeobecné",ČT2 HD (záložní)
+https://sktv-forwarders.7m.pl/get.php?x=CT2
 #EXTINF:-1 tvg-id="CT24(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct24.png" group-title="Zpravodajské / News",ČT24 HD
 http://146.59.85.40:89/ct24/index.m3u8
+#EXTINF:-1 tvg-id="CT24(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct24.png" group-title="Zpravodajské / News",ČT24 HD (záložní)
+https://sktv-forwarders.7m.pl/get.php?x=CT24
 #EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct-sport.png" group-title="Sportovní / Sport",ČT sport HD (internetová verze)
 https://sktv-forwarders.7m.pl/get.php?x=CTsport
 #EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct-sport.png" group-title="Sportovní / Sport",ČT sport HD (dočasný)
@@ -75,20 +79,26 @@ http://146.59.85.40:89/primahd/mono.m3u8
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD 🔊📜
 http://146.59.85.40:89/primacoolhd/mono.m3u8
+#EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD (záložní)
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaLOVE(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-love.png" group-title="Pro ženy / For ladies",Prima Love HD 📜
 http://146.59.85.40:89/primalovehd/mono.m3u8
+#EXTINF:-1 tvg-id="PrimaLOVE(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-love.png" group-title="Pro ženy / For ladies",Prima Love HD (záložní)
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaZOOM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-zoom.png" group-title="Dokumentární / Documents",Prima Zoom HD 🔊📜
 http://146.59.85.40:89/primazoomhd/mono.m3u8
+#EXTINF:-1 tvg-id="PrimaZOOM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-zoom.png" group-title="Dokumentární / Documents",Prima Zoom HD (záložní)
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaMAX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-max.png" group-title="Filmy a seriály / Movies and serials",Prima Max HD 
 http://iptvtree.net:8080/F19406/e4fccd99/21102
 #EXTINF:-1 tvg-id="PRIMAKRIMI(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-krimi.png" group-title="Krimi",Prima Krimi HD
 http://iptvtree.net:8080/F19406/e4fccd99/83414
-#EXTINF:-1 tvg-id="PrimaStar(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-star.png" group-title="Archivní",Prima Star 
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-id="PRIMASHOW(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-show.png" group-title="Reality show",Prima Show 
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/cnn-prima-3.png" group-title="Zpravodajské / News",CNN Prima News 
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaStar(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-star.png" group-title="Archivní",Prima Star HD
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PRIMASHOW(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-show.png" group-title="Reality show",Prima Show HD
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/cnn-prima-3.png" group-title="Zpravodajské / News",CNN Prima News HD
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="ParamountNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-comedy-2.png" group-title="Filmy a seriály / Movies and serials",Paramount Network (dočasný)
 http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/2220
 #EXTINF:-1 tvg-id="SeznamczTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/seznam.png" group-title="Všeobecné",Seznam.cz TV HD (dočasný)
