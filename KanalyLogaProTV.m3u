@@ -77,7 +77,7 @@ http://startv365.com:80/7795309038/1092686646/17033
 http://146.59.85.40:89/primahd/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima.png" group-title="Všeobecné",Prima HD (záložní)
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima.png" group-title="Všeobecné",TEST HD
+#EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima.png" group-title="Všeobecné",Prima +1 HD
 https://prima-ott-live-sec.ssl.cdn.cra.cz/yr_eTkFWwwRtGqmlIVBfJQ==,1713367594/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=3600&url=0
 #EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD 🔊📜
 http://146.59.85.40:89/primacoolhd/mono.m3u8
