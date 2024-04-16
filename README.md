@@ -3,6 +3,9 @@ Online televize s českými a slovenskými programy bez poplatků. Nový balíč
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 16. duben 2024, 17:47**
+*přidána časově posunutá verze kanálu Prima (jedná se pouze o test, jinak kanál zůstane zachován)*
+
 **- 30. březen 2024, 14:32**
 *přidána verze s logy pro TV aplikaci M3U IPTV*
 
