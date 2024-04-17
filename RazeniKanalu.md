@@ -11,3 +11,4 @@
 | 7   | ČT24 HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct24.png"/> |
 | 8   | ČT sport HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct-sport.png"/> |
 | 9   | ČT :D/art HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct-d.png"/> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%C4%8CT_Art_logo.svg/800px-%C4%8CT_Art_logo.svg.png"/> |
+| 10   | iVysílání Extra HD     | <img height="20" src="https://ctfs.ceskatelevize.cz/static/v8.7/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg"/> |
