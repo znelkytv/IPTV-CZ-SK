@@ -1,5 +1,7 @@
 <h1>Řazení kanálů</h1>
+
 *zahrnuty i kanály, které nejsou součástí aktuální programové nabídky - jejich pozice se bude řídit tímto souborem*
+
 
 | pozice   | kanál        | Logo    |
 |:--------:|:------------:|:-------:|
