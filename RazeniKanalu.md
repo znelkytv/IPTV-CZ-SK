@@ -1,5 +1,5 @@
-<h1>Czech Republic</h1>
+<h1>Řazení kanálů</h1>
 
-| pozice   | kanál        | Logo |
-|:--------:|:------------:|:----:|
+| pozice   | kanál        | Logo    |
+|:--------:|:------------:|:-------:|
 | 1   | ČT1     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
