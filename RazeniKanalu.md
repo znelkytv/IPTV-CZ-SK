@@ -18,7 +18,7 @@
 | 23   | Nova HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova.png"/> |
 | 23   | Nova Cinema HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-cinema.png"/> |
 | 23   | Nova Action HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-action.png"/> |
-| 23   | Nova Fun HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-fun.png"/> |
+| 23   | Nova Fun HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-2-2.png"/> |
 | 23   | Nova Gold HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-gold.png"/> |
 | 23   | Nova Lady HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-lady.png"/> |
 | 23   | Nova Sport 1 HD     | <img height="30" src="https://nova-ott-images-tn.ssl.cdn.cra.cz/r793x357/66798f44-eb1a-4d3a-978e-bc8b61002960"/> |
