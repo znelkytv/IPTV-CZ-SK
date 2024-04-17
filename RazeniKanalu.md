@@ -8,3 +8,6 @@
 | 4   | ČT1 JZC HD     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
 | 5   | ČT1 SVC HD     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
 | 6   | ČT2 HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct2.png"/> |
+| 7   | ČT24 HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct24.png"/> |
+| 8   | ČT sport HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct-sport.png"/> |
+| 9   | ČT :D/art HD     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ct-d.png"/> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%C4%8CT_Art_logo.svg/800px-%C4%8CT_Art_logo.svg.png"/> |
