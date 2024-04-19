@@ -3,8 +3,8 @@
 *zahrnuty i kanály, které nejsou součástí aktuální programové nabídky - jejich pozice se bude řídit tímto souborem*
 
 
-| pozice   | kanál        | logo    |
-|:--------:|:------------:|:-------:|
+| pozice   | kanál        | logo       |
+|:--------:|:------------:|:----------:|
 | 1   | ČT1 HD     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
 | 2   | ČT1 JM HD     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
 | 3   | ČT1 SM HD     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
