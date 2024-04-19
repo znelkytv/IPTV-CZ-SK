@@ -25,7 +25,7 @@
 | 30   | Nova Sport 2 HD     | <img height="30" src="https://nova-ott-images-tn.ssl.cdn.cra.cz/r793x357/85dde7ee-785f-4c1e-94ae-544682f3044d"/> |
 | 31   | Nova Sport 3 HD     | <img height="30" src="https://nova-ott-images-tn.ssl.cdn.cra.cz/r793x357/831c96ba-3854-45a7-ab02-f4b3268a836b"/> |
 | 32   | Nova Sport 4 HD     | <img height="30" src="https://nova-ott-images-tn.ssl.cdn.cra.cz/r793x357/44d266e4-fbe9-41c0-9328-13ecfdc2132e"/> |
-| 33   | Markíza International   | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811"/> |
+| 33   | Markíza International   | <img height="40" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811"/> |
 | 34   | Prima HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima.png"/> |
 | 35   | Prima Cool HD     | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png"/> |
 | 36   | Prima Love HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-love.png"/> |
