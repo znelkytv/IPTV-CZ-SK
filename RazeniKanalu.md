@@ -2,6 +2,7 @@
 
 *zahrnuty i kanály, které nejsou součástí aktuální programové nabídky - jejich pozice se bude řídit tímto souborem*
 
+<h2>České řazení</h2>
 
 | pozice   | kanál        | logo       |
 |:--------:|:------------:|:----------:|
@@ -35,4 +36,3 @@
 | 40   | Prima Star HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-star.png"/> |
 | 41   | Prima Show HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-show.png"/> |
 | 42   | CNN Prima News HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cnn-prima-3.png"/> |
-| 43   | Prima PLUS HD     | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Prima_Plus_Logo_%282021%29.svg"/> |
