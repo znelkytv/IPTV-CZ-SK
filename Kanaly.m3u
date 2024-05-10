@@ -87,10 +87,12 @@ http://78.130.250.2:8023/play/a02u/index.m3u8
 http://iptvtree.net:8080/F19406/e4fccd99/46719
 #EXTINF:-1 tvg-id="NICKJRTHOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickjr.png" group-title="Pro děti / For kids",Nick Jr.
 http://iptvtree.net:8080/F19406/e4fccd99/201184
-#EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror
-http://78.130.250.2:8023/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery
-http://iptvtree.net:8080/F19406/e4fccd99/286853
+#EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror HD
+https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
+#EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery HD
+https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
+#EXTINF:-1 tvg-id="CSHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistory.png" group-title="Dokumentární / Documents",CS History HD
+https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
 #EXTINF:-1 tvg-id="JOJCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
 http://iptvtree.net:8080/F19406/e4fccd99/295046
 #EXTINF:-1 tvg-id="HBO(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD 🔊📜
