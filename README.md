@@ -3,6 +3,9 @@ Online televize s českými a slovenskými programy bez poplatků. Nový balíč
 Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 10. květen 2024, 15:58**
+*do HD rozlišení byly převedeny kanály CS Film / Horror a CS Mystery / přidán kanál CS History*
+
 **- 23. duben 2024, 14:39**
 *obnoveny kanály Paramount Network, Seznam.cz TV, TV Barrandov, Barrandov Krimi, Nickelodeon, Nicktoons, Minimax, Disney Channel, HBO 2, HBO 3, Filmbox, Filmbox Stars, Filmbox Family, AXN, Film Europe +, Story 4, Spektrum, Viasat History a Spektrum Home / přidán kanál Nova Sport 5*
 
