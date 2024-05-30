@@ -1,12 +1,24 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/v158yx3z3jf677j1n9mw"
 #EXTINF:-1 tvg-id="Jednotka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka
-http://213.81.133.133:8080/jednotka/index.m3u8
+http://91.237.170.209:43210/channel/n6d071d80/index.m3u8
 #EXTINF:-1 tvg-id="Dvojka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_of_Dvojka_%282012-%29.png" group-title="Všeobecné",Dvojka
-https://sktv-forwarders.7m.pl/get.php?x=STV2
+http://91.237.170.209:43210/channel/n4ea87bfd/index.m3u8
 #EXTINF:-1 tvg-id="STV24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/759-trojka.png" group-title="Zpravodajské",RTVS 24 HD
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+http://91.237.170.209:43210/channel/5b2c2583/index.m3u8
 #EXTINF:-1 tvg-id="RTVSSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",RTVS Šport HD
 https://sktv-forwarders.7m.pl/get.php?x=SPORT
+#EXTINF:-1 tvg-id="Markiza(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markíza HD
+http://91.237.170.209:43210/channel/32060363/index.m3u8
+#EXTINF:-1 tvg-id="Dajto(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Filmové",Markíza Dajto HD
+http://91.237.170.209:43210/channel/5aee2c8/index.m3u8
+#EXTINF:-1 tvg-id="Doma(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/954-doma-hd.png" group-title="Všeobecné",Markíza Doma HD
+http://91.237.170.209:43210/channel/2f235f/index.m3u8
+#EXTINF:-1 tvg-id="MARKIZAKRIMI(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/953-markiza-krimi-hd.png" group-title="Krimi",Markíza Krimi HD
+http://91.237.170.209:43210/channel/79f4fe01/index.m3u8
+#EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
+http://91.237.170.193:8000/play/6028/index.m3u8
+#EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima SK
+http://91.237.170.209:43210/channel/n5084dfe1/index.m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
 http://88.212.11.199:5000/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/816-joj-plus-hd.png" group-title="Filmové",JOJ Plus HD
@@ -17,6 +29,8 @@ https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
 https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
 #EXTINF:-1 tvg-id="JOJSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/817-joj-sport-hd.png" group-title="Športové",JOJ Šport HD
 https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD
+http://91.237.170.209:43210/channel/n56150a33/index.m3u8
 #EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD
 https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
 #EXTINF:-1 tvg-id="NRSR(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/961-joj-24-hd.png" group-title="Extra kanály",NRSR
