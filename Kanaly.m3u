@@ -97,6 +97,10 @@ http://78.130.250.2:8023/play/a02v/index.m3u8
 http://91.237.170.209:43210/channel/n131bae0a/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/golfchannel.png" group-title="Sportovní / Sport",Golf Channel 🔊
 http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport1.png" group-title="Sportovní / Sport",Eurosport 1 HD
+http://91.237.170.209:43210/channel/n23bc508/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/eurosport2.png" group-title="Sportovní / Sport",Eurosport 2 HD
+http://91.237.170.209:43210/channel/n23bc507/index.m3u8
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD 🔊
 http://78.130.250.2:8023/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD
@@ -153,6 +157,14 @@ http://91.237.170.209:43210/channel/17b17/index.m3u8
 http://91.237.170.209:43210/channel/n745fee74/index.m3u8
 #EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD
 http://iptvtree.net:8080/F19406/e4fccd99/295047
+#EXTINF:-1 tvg-id="CrimeandInvestigation(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/crimeandinvestigation.png" group-title="Krimi",Crime & Investigation
+http://91.237.170.209:43210/channel/2549f8cb/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/discovery.png" group-title="Dokumentární / Documents",Discovery
+http://91.237.170.209:43210/channel/734a5f05/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/investigationdiscovery.png" group-title="Dokumentární / Documents",Discovery ID HD
+http://91.237.170.209:43210/channel/n554e6460/index.m3u8
+#EXTINF:-1 tvg-id="TRAVELCHANNEL(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/travelchannel.png" group-title="Cestování / Travel",Travel Channel HD
+http://91.237.170.209:43210/channel/309bddfd/index.m3u8
 #EXTINF:-1 tvg-id="TravelXP.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/travelxp.png" group-title="Dokumentární / Documents",TravelXP HD (dočasný)
 http://startv365.com:80/7795309038/1092686646/400145837
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentární / Documents",Love Nature HD 🔊📜
@@ -181,6 +193,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 http://iptvtree.net:8080/F19406/e4fccd99/121568
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
 http://91.237.170.209:43210/channel/n2a6844b2/index.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/foodnetwork.png" group-title="Vaření / Cooking",Discovery Food Network
+http://91.237.170.209:43210/channel/n1f743b94/index.m3u8
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mňam TV
 http://iptvtree.net:8080/F19406/e4fccd99/83423
 #EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Lifestyle",Spektrum Home
