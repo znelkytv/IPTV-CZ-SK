@@ -47,6 +47,8 @@ http://78.130.250.2:8023/play/a02y/index.m3u8
 http://78.130.250.2:8023/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="NOVAACTION(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD 📜
 http://78.130.250.2:8023/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="NovaFUN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Filmy a seriály / Movies and serials",Nova Fun HD
+http://91.237.170.209:43210/channel/6157d38b/index.m3u8
 #EXTINF:-1 tvg-id="NOVAGold(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title="",Nova Gold
 http://iptvtree.net:8080/F19406/e4fccd99/21103
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
