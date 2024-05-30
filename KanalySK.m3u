@@ -16,7 +16,7 @@ http://91.237.170.209:43210/channel/2f235f/index.m3u8
 #EXTINF:-1 tvg-id="MARKIZAKRIMI(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/953-markiza-krimi-hd.png" group-title="Krimi",Markíza Krimi HD
 http://91.237.170.209:43210/channel/79f4fe01/index.m3u8
 #EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
-http://91.237.170.193:8000/play/6028/index.m3u8
+http://91.237.170.209:43210/channel/2c81959a/index.m3u8
 #EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima SK
 http://91.237.170.209:43210/channel/n5084dfe1/index.m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
