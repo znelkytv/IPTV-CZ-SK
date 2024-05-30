@@ -6,7 +6,7 @@ http://91.237.170.209:43210/channel/n4ea87bfd/index.m3u8
 #EXTINF:-1 tvg-id="STV24(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/759-trojka.png" group-title="Zpravodajské",RTVS 24 HD
 http://91.237.170.209:43210/channel/5b2c2583/index.m3u8
 #EXTINF:-1 tvg-id="RTVSSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",RTVS Šport HD
-https://sktv-forwarders.7m.pl/get.php?x=SPORT
+http://91.237.170.209:43210/channel/n25edcb6d/index.m3u8
 #EXTINF:-1 tvg-id="Markiza(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markíza HD
 http://91.237.170.209:43210/channel/32060363/index.m3u8
 #EXTINF:-1 tvg-id="Dajto(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Filmové",Markíza Dajto HD
@@ -15,10 +15,12 @@ http://91.237.170.209:43210/channel/5aee2c8/index.m3u8
 http://91.237.170.209:43210/channel/2f235f/index.m3u8
 #EXTINF:-1 tvg-id="MARKIZAKRIMI(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/953-markiza-krimi-hd.png" group-title="Krimi",Markíza Krimi HD
 http://91.237.170.209:43210/channel/79f4fe01/index.m3u8
-#EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
+#EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="SK" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://91.237.170.209:43210/channel/2c81959a/index.m3u8
-#EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima SK
+#EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="SK" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima SK
 http://91.237.170.209:43210/channel/n5084dfe1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/primacool.png" group-title="Všeobecné",Prima Cool SK HD  
+http://skylink.casacam.net:2052/play/Xp2gvffXnvgd3z6BTZOA7WTieUs9tg00V9aij2bQGms/m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
 http://88.212.11.199:5000/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/816-joj-plus-hd.png" group-title="Filmové",JOJ Plus HD
@@ -33,6 +35,8 @@ https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 http://91.237.170.209:43210/channel/n56150a33/index.m3u8
 #EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD
 https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
+#EXTINF:-1 tvg-id="Tuki(src01).cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Detské",Ťuki TV HD
+http://91.237.170.209:43210/channel/n39f2115d/index.m3u8
 #EXTINF:-1 tvg-id="NRSR(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/961-joj-24-hd.png" group-title="Extra kanály",NRSR
 https://live.cdn.joj.sk/live/andromeda/nrsr/live.m3u8
 #EXTINF:-1 tvg-id="Senzi(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI
