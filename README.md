@@ -1,8 +1,11 @@
 # IPTV zdarma
 Online televize s českými a slovenskými programy bez poplatků. Nový balíček založen z důvodu zablokování GitHubem ze strany porušování autorských práv podle TV Nova (více informací zde: https://github.com/github/dmca/blob/master/2023/10/2023-10-17-nova.md).
-Vyjádření televize: Projekt „IPTV Česko“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
+Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 5. červen 2024, 6:50**
+*přidány kanály Nova Sport 6 a Sporty TV*
+
 **- 10. květen 2024, 15:58**
 *do HD rozlišení byly převedeny kanály CS Film / Horror a CS Mystery / přidán kanál CS History*
 
