@@ -9,6 +9,12 @@ https://sktv-forwarders.7m.pl/get.php?x=STV24
 https://sktv-forwarders.7m.pl/get.php?x=SPORT
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/primacool.png" group-title="Všeobecné",Prima Cool SK HD  
 https://m3u-editor.com/serve/257d7d20-228c-11ef-a981-474208016ad1/1178672420
+#EXTINF:-1 tvg-id="Markiza(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markíza HD
+https://m3u-editor.com/serve/257d7d20-228c-11ef-a981-474208016ad1/1178757287
+#EXTINF:-1 tvg-id="Markizaplus1(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markíza +1 HD
+https://m3u-editor.com/serve/257d7d20-228c-11ef-a981-474208016ad1/1178747284
+#EXTINF:-1 tvg-id="Dajto(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Filmové",Markíza Dajto HD
+https://m3u-editor.com/serve/257d7d20-228c-11ef-a981-474208016ad1/1178757286
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
 http://88.212.11.199:5000/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/816-joj-plus-hd.png" group-title="Filmové",JOJ Plus HD
