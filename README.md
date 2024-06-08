@@ -7,7 +7,7 @@ Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naš�
 *obnoveny kanály Relax, A11 a Óčko Black / přidání kanálů: v české nabídce přidán kanál Eurosport 4K CZ, ve slovenské nabídce přidány kanály Rik TV a Park TV, v obou nabídkách také přidán kanál 360 TuneBox*
 
 **- 5. červen 2024, 6:50**
-*přidány kanály Nova Sport 6 a Sporty TV*
+*přidány kanály Nova Lady, Nova Sport 6 a Sporty TV*
 
 **- 10. květen 2024, 15:58**
 *do HD rozlišení byly převedeny kanály CS Film / Horror a CS Mystery / přidán kanál CS History*
