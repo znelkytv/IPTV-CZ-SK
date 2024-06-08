@@ -35,14 +35,16 @@
 | 27   | CNN Prima News HD     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cnn-prima-3.png"/> |
 | 28   | Paramount Network    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/prima-comedy-2.png"/> |
 | 29   | Seznam.cz TV     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/seznam.png"/> |
-| 30   | A11     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/a11.png"/> |
-| 31   | TV Barrandov     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/barrandov.png"/> |
-| 32   | Kino Barrandov     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/kino-barrandov.png"/> |
-| 33   | Barrandov Krimi     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/barrandov-krimi.png"/> |
-| 34   | Premier Sport 1     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
-| 35   | Premier Sport 2    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
-| 36   | Premier Sport 3     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
-| 37   | Premier Sport 4     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
-| 38   | CANAL+ Sport     | <img height="30" src="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-24.png"/> |
-| 39   | CANAL+ Sport 2     | <img height="30" src="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-2-25.png"/> |
+| 30   | RELAX     | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Relax_logo.png"/> |
+| 31   | A11     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/a11.png"/> |
+| 32   | TV Barrandov     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/barrandov.png"/> |
+| 33   | Kino Barrandov     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/kino-barrandov.png"/> |
+| 34   | Barrandov Krimi     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/barrandov-krimi.png"/> |
+| 35   | Premier Sport 1     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
+| 36   | Premier Sport 2    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
+| 37   | Premier Sport 3     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
+| 38   | Premier Sport 4     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
+| 38   | Premier Sport 4 Extra     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
+| 40   | CANAL+ Sport     | <img height="30" src="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-24.png"/> |
+| 41   | CANAL+ Sport 2     | <img height="30" src="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-2-25.png"/> |
 | -   | iVysílání Extra HD     | <img height="15" src="https://ctfs.ceskatelevize.cz/static/v8.7/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ctsportextra.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ct24plus.svg"/> |
