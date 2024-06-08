@@ -115,8 +115,6 @@ http://iptvtree.net:8080/F19406/e4fccd99/23314
 https://m3u-editor.com/serve/257d7d20-228c-11ef-a981-474208016ad1/1178747285
 #EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD
 http://iptvtree.net:8080/F19406/e4fccd99/295047
-#EXTINF:-1 tvg-id="TravelXP.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/travelxp.png" group-title="Dokumentární / Documents",TravelXP HD (dočasný)
-http://startv365.com:80/7795309038/1092686646/400145837
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentární / Documents",Love Nature HD 🔊📜
 http://95.67.12.82:9098
 #EXTINF:-1 tvg-id="NationalGeographicChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nationalgeographic.png" group-title="Dokumentární / Documents",National Geographic HD 🔊
