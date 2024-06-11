@@ -57,5 +57,5 @@
 | 49   | Nicktoons     | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png"/> |
 | 50   | Minimax     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/minimax.png"/> |
 | 51   | JimJam     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/jim-jam.png"/> |
-| 52   | Minimax     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/disney-2.png"/> |
+| 52   | Disney Channel    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/disney-2.png"/> |
 | -   | iVysílání Extra HD     | <img height="15" src="https://ctfs.ceskatelevize.cz/static/v8.7/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ctsportextra.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ct24plus.svg"/> |
