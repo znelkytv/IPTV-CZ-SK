@@ -47,4 +47,15 @@
 | 38   | Premier Sport 4 Extra     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/premier-sport-2.png"/> |
 | 40   | CANAL+ Sport     | <img height="30" src="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-24.png"/> |
 | 41   | CANAL+ Sport 2     | <img height="30" src="https://www.canalplussport.cz/doc/cm_tvkanal_img/canal-sport-2-25.png"/> |
+| 42   | Eurosport 1     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/eurosport.png"/> |
+| 43   | Eurosport 2     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/eurosport.png"/> |
+| 44   | Eurosport 4K CZ     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/eurosport.png"/> |
+| 45   | Golf Channel     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/golf.png"/> |
+| 46   | Sporty TV     | <img height="30" src="https://www.sportytv.cz/assets/favicon/apple-touch-icon.png"/> |
+| 47   | Nickelodeon    | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png"/> |
+| 48   | Nick Jr.     | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png"/> |
+| 49   | Nicktoons     | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png"/> |
+| 50   | Minimax     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/minimax.png"/> |
+| 51   | JimJam     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/jim-jam.png"/> |
+| 52   | Minimax     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/disney-2.png"/> |
 | -   | iVysílání Extra HD     | <img height="15" src="https://ctfs.ceskatelevize.cz/static/v8.7/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ctsportextra.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ct24plus.svg"/> |
