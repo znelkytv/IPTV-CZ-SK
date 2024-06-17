@@ -39,7 +39,7 @@ http://82.202.173.201:25461/okverd/123456/90964
 http://82.202.173.201:25461/okverd/123456/90965
 #EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD
 http://88.212.7.10/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD
+#EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD 📜
 https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Aprimacool&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=7a7ae024f5a723fbd2c54782460b35bd1e0d3c1fde009941c4de3e92d6cb5502
 #EXTINF:-1 tvg-id="PrimaLOVE(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Pro ženy / For ladies",Prima Love HD
 http://88.212.7.10/live/prima_love_avc_25p/playlist.m3u8
