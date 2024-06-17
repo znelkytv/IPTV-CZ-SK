@@ -6,6 +6,7 @@
 https://iptv-org.maweb.eu/Kanaly.m3u
 <br>
 https://iptv-org.maweb.eu/KanalySK.m3u
+<br>
 Je to také jednoduchá možnost bez stahování při každé aktualizaci.
 
 # IPTV zdarma
