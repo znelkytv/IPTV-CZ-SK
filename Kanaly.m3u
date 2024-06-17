@@ -97,7 +97,7 @@ http://88.212.7.10/live/test_nick_jr/playlist.m3u8
 http://88.212.7.10/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Minimax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1351-minimax.png" group-title="Pro děti / For kids",Minimax
 http://88.212.7.10/live/test_minimax/playlist.m3u8
-#EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Pro děti / For kids",JimJam (dočasný)
+#EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Pro děti / For kids",JimJam
 http://88.212.7.10/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror HD
 https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
