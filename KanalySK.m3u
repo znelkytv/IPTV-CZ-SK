@@ -45,3 +45,5 @@ https://dash2.antik.sk/live/rik_atk/index.m3u8
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Antik Tanečné súťaže HD
 http://88.212.7.10/live/tanecnesutaze/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",Antik WebTV Infokanál (Tizen)
+http://88.212.7.10/live/test_infokanal_tizen/playlist.m3u8
