@@ -37,6 +37,10 @@ http://82.202.173.201:25461/okverd/123456/88
 http://82.202.173.201:25461/okverd/123456/90964
 #EXTINF:-1 tvg-id="NovaSport4(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport4.png" group-title="Sportovní / Sport",Nova Sport 4 HD 🔊
 http://82.202.173.201:25461/okverd/123456/90965
+#EXTINF:-1 tvg-id="NovaSport5(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport5.png" group-title="Sportovní / Sport",Nova Sport 5 HD 🔊
+http://82.202.173.201:25461/okverd/123456/90627
+#EXTINF:-1 tvg-id="NovaSport6(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport6.png" group-title="Sportovní / Sport",Nova Sport 6 HD 🔊
+http://82.202.173.201:25461/okverd/123456/90956
 #EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD
 http://88.212.7.10/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD 📜
@@ -55,6 +59,8 @@ http://88.212.7.10/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.7.10/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Zpravodajské / News",CNN Prima News HD
 http://88.212.7.10/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="SeznamczTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Zpravodajské / News",Seznam.cz TV HD
+http://88.212.7.10/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Relax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-id="A11(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11 HD
