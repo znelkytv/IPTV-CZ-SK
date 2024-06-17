@@ -7,7 +7,7 @@ Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naš�
 
 # Přehled aktualizací a novinek
 **- 17. červen 2024, 16:59**
-*přidány kanály Doma, Dajto, upravené streamy ČT1 a Senzi, smazány ČT sport Plus streamy*
+*do slovenské nabídky přidány kanály Markíza, Doma, Dajto, Nova International, Prima Plus / upravené streamy ČT1 a Senzi / smazány ČT sport Plus streamy*
 
 **- 8. červen 2024, 9:20**
 *obnoveny kanály Relax, A11 a Óčko Black / přidání kanálů: v české nabídce přidán kanál Eurosport 4K CZ, ve slovenské nabídce přidány kanály Rik TV a Park TV, v obou nabídkách také přidán kanál 360 TuneBox*
