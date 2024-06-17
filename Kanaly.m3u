@@ -1,46 +1,22 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/v158yx3z3jfkkd22n9mw"
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",ČT1 HD 🔊
-http://iptvtree.net:8080/F19406/e4fccd99/121563
+http://88.212.7.10/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Regionální / Regional channels",ČT1 JM HD (pouze regionální pořady)
-https://sktv-forwarders.7m.pl/get.php?x=CT1-JM
+https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Act1jm&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=c9d33e49d8f180015e33a18a0dbf5ef736897f580b39f29cfce6808dc74c4a58
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Regionální / Regional channels",ČT1 SM HD (pouze regionální pořady)
-https://sktv-forwarders.7m.pl/get.php?x=CT1-SM
+https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Act1sm&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=8d27da79248d01f329df3961d91169cd2b1c4c8032c438552ea9b74302aac53d
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Regionální / Regional channels",ČT1 JZC HD
-https://sktv-forwarders.7m.pl/get.php?x=CT1-JZC
+https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Act1jzc&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=99c0e61d7f49b88c71882ba563e2f5d4873a39c5a73afe2f299e611b103c6008
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Regionální / Regional channels",ČT1 SVC HD
-https://sktv-forwarders.7m.pl/get.php?x=CT1-SVC
+https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Act1svc&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=fde1c223df5ee5e9f10f96a6b378c6a7667291645213c9f1c30a207b70a00be2
 #EXTINF:-1 tvg-id="CT2(src01).cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct2hd.png" group-title="Všeobecné",ČT2 HD
 http://146.59.85.40:89/ct2/index.m3u8
 #EXTINF:-1 tvg-id="CT24(src01).cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct24hd.png" group-title="Zpravodajské / News",ČT24 HD
 http://146.59.85.40:89/ct24/index.m3u8
 #EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctsporthd.png" group-title="Sportovní / Sport",ČT sport HD
-http://iptvtree.net:8080/F19406/e4fccd99/174685
+https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Act4sport&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=3c6a23fa04c6dc1252179a1579fe0a693efb28c86303d739a14082b607a064a6
 #EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-url="decko.cz" tvg-url="ctart.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="",ČT :D/art HD
-http://iptvtree.net:8080/F19406/e4fccd99/299622
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 1
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus9
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 2
-https://sktv-forwarders.7m.pl/get.php?x=CTiVysilani1
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 3
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus1
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 4
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 5
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus3
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 6
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus4
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 7
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus5
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 8
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus6
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 9
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus7
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 10
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus8
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 11
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus10
-#EXTINF:-1 tvg-id="iVysilani.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/kodi-czsk-icons/1024/ivysilani.png" group-title="Extra kanály / Extra channels",iVysílání Extra 12
-https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus11
+https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Actdecko&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=f83597d5ed7514950812a67f4b9a76121498e024a95914380f76960f03e867f5
 #EXTINF:-1 tvg-id="NovaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD 🔊📜🦻
 http://78.130.250.2:8023/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="NovaCinema(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD 📜
