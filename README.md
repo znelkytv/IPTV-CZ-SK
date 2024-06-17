@@ -8,7 +8,7 @@ Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naš�
 
 **Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a já ho pak přidám do nabídky.**
 
-# Všechny playlisty si můžete stáhnout zde:
+### Všechny playlisty si můžete stáhnout zde:
 <br>
 https://iptv-org.maweb.eu/Kanaly.m3u
 <br>
