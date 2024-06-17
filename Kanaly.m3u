@@ -49,8 +49,6 @@ http://78.130.250.2:8023/play/a01y/index.m3u8
 http://78.130.250.2:8023/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="NOVAGold(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title="",Nova Gold
 http://iptvtree.net:8080/F19406/e4fccd99/21103
-#EXTINF:-1 tvg-id="NovaLady(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Pro ženy / For ladies",Nova Lady HD (dočasný)
-https://m3u-editor.com/serve/ukvxsxkdlzdkoazy/1180624408
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
 http://78.130.250.2:8023/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
@@ -59,10 +57,6 @@ http://78.130.250.2:8023/play/a004/index.m3u8
 http://iptvtree.net:8080/F19406/e4fccd99/298867
 #EXTINF:-1 tvg-id="NovaSport4(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport4.png" group-title="Sportovní / Sport",Nova Sport 4 HD
 http://iptvtree.net:8080/F19406/e4fccd99/298866
-#EXTINF:-1 tvg-id="NovaSport5(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport5.png" group-title="Sportovní / Sport",Nova Sport 5 HD (dočasný)
-https://m3u-editor.com/serve/ukvxsxkdlzdkoazy/1180628562
-#EXTINF:-1 tvg-id="NovaSport6(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport6.png" group-title="Sportovní / Sport",Nova Sport 6 HD (dočasný)
-https://m3u-editor.com/serve/ukvxsxkdlzdkoazy/1180628563
 #EXTINF:-1 tvg-id="PrimaTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Filmy a seriály / Movies and serials",Prima Cool HD
