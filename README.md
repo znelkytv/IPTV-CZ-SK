@@ -1,13 +1,13 @@
 **Nyní probíhá hlasování pro diváky. Pro hlasování přejděte do záložky Issues - Hlasování pro diváky**
 
 **Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a já ho pak přidám do nabídky.**
-# Všechny playlisty si můžete stáhnout zde:
+## Všechny playlisty si můžete stáhnout zde:
 <br>
 https://iptv-org.maweb.eu/Kanaly.m3u
 <br>
 https://iptv-org.maweb.eu/KanalySK.m3u
 <br>
-Je to také jednoduchá možnost bez stahování při každé aktualizaci.
+Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 # IPTV zdarma
 Online televize s českými a slovenskými programy bez poplatků. Nový balíček založen z důvodu zablokování GitHubem ze strany porušování autorských práv podle TV Nova (více informací zde: https://github.com/github/dmca/blob/master/2023/10/2023-10-17-nova.md).
