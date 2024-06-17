@@ -11,8 +11,12 @@ https://sktv-forwarders.7m.pl/get.php?x=SPORT
 http://88.212.7.10/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dajto(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Všeobecné",Dajto HD
 http://88.212.7.10/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="neni" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/954-doma-hd.png" group-title="Všeobecné",Doma HD
+#EXTINF:-1 tvg-id="Doma(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/954-doma-hd.png" group-title="Všeobecné",Doma HD
 http://88.212.7.10/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International HD
+http://88.212.7.10/live/test_nova_int_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima SK HD
+http://88.212.7.10/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
 http://88.212.11.199:5000/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/816-joj-plus-hd.png" group-title="Filmové",JOJ Plus HD
