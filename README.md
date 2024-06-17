@@ -1,7 +1,14 @@
+# IPTV zdarma
+Online televize s českými a slovenskými programy bez poplatků. Nový balíček založen z důvodu zablokování GitHubem ze strany porušování autorských práv podle TV Nova (více informací zde: https://github.com/github/dmca/blob/master/2023/10/2023-10-17-nova.md).
+Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
+
+## Další informace o této IPTV: 
+
 **Nyní probíhá hlasování pro diváky. Pro hlasování přejděte do záložky Issues - Hlasování pro diváky**
 
 **Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a já ho pak přidám do nabídky.**
-## Všechny playlisty si můžete stáhnout zde:
+
+# Všechny playlisty si můžete stáhnout zde:
 <br>
 https://iptv-org.maweb.eu/Kanaly.m3u
 <br>
@@ -9,11 +16,7 @@ https://iptv-org.maweb.eu/KanalySK.m3u
 <br>
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
-# IPTV zdarma
-Online televize s českými a slovenskými programy bez poplatků. Nový balíček založen z důvodu zablokování GitHubem ze strany porušování autorských práv podle TV Nova (více informací zde: https://github.com/github/dmca/blob/master/2023/10/2023-10-17-nova.md).
-Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
-
-# Přehled aktualizací a novinek
+### Přehled aktualizací a novinek
 **- 17. červen 2024, 17:13**
 *upraveny kanály Prima a Nova z HEVC kodeku do kodeku avc / upraveny streamy TV Paprika a AMC (převedeny do HD kvality)*
 
