@@ -9,9 +9,9 @@ Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naš�
 **Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a já ho pak přidám do nabídky.**
 
 ### Všechny playlisty si můžete stáhnout zde:
-https://iptv-org.maweb.eu/Kanaly.m3u
+https://github.com/znelkytv/IPTV-CZ-SK/raw/main/Kanaly.m3u
 <br>
-https://iptv-org.maweb.eu/KanalySK.m3u
+https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 <br>
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
