@@ -16,6 +16,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 17. červen 2024, 17:40**
+*do slovenské nabídky přidány kanály Prima Cool SK a Prima SK*
+
 **- 17. červen 2024, 17:13**
 *upraveny kanály Prima a Nova z HEVC kodeku do kodeku avc / upraveny streamy TV Paprika a AMC (převedeny do HD kvality)*
 
