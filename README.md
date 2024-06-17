@@ -4,8 +4,6 @@ Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naš�
 
 ## Další informace o této IPTV: 
 
-**Nyní probíhá hlasování pro diváky. Pro hlasování přejděte do záložky Issues - Hlasování pro diváky**
-
 **Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a já ho pak přidám do nabídky.**
 
 ### Všechny playlisty si můžete stáhnout zde:
