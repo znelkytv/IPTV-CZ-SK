@@ -6,6 +6,9 @@ Online televize s českými a slovenskými programy bez poplatků. Nový balíč
 Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naší televize. Vzhledem k tomu, že je pod paywallem (voyo.nova.cz), uživatel GitHubu publikuje odkazy m3u8 z naší platformy. Vyjádření autora: m3u8 link není porušován, nemá žádná autorská práva a je sehnán z veřejného playlistu.
 
 # Přehled aktualizací a novinek
+**- 17. červen 2024, 17:13**
+*upraveny kanály Prima a Nova z HEVC kodeku do kodeku avc / upraveny streamy TV Paprika a AMC (převedeny do HD kvality)*
+
 **- 17. červen 2024, 16:59**
 *do slovenské nabídky přidány kanály Markíza, Doma, Dajto, Nova International, Prima Plus / upravené streamy ČT1 a Senzi / smazány ČT sport Plus streamy*
 
