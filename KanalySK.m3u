@@ -17,6 +17,8 @@ http://88.212.7.10/live/test_doma_hd_hevc/playlist.m3u8
 http://88.212.7.10/live/test_nova_int_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima SK HD
 http://88.212.7.10/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="neni" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/755-prima-plus-hd.png" group-title="Všeobecné",Prima Cool SK HD
+http://88.212.7.10/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/814-joj-hd.png" group-title="Všeobecné",TV JOJ HD
 http://88.212.11.199:5000/live/test_joj_hd_high_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJPLUS(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/816-joj-plus-hd.png" group-title="Filmové",JOJ Plus HD
