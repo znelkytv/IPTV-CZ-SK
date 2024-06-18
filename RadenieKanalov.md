@@ -26,7 +26,7 @@
 | 18   | JOJ Šport HD   | <img height="40" src="https://static.wikia.nocookie.net/logopedia/images/6/6f/JOJ_%C5%A0port.svg"/> |
 | 19   | JOJ Svet HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/8/8f/JOJ_Svet.svg"/> |
 | 20   | Jojko HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/f/f3/Jojko.svg"/> |
-| 21   | Národná rada Slovenskej republiky HD     | <img height="30" src="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/b5a78d60f2038ca4617ef859e9bccd03.svg"/> |
+| 21   | Národná rada Slovenskej republiky HD     | <img height="70" src="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/b5a78d60f2038ca4617ef859e9bccd03.svg"/> |
 | 22   | Senzi HD     | <img height="30" src="https://i.imgur.com/1qJMmBu.png"/> |
 | 23   | 360TuneBox HD     | <img height="30" src="https://i.imgur.com/1Fyezng.png"/> |
 | 24   | Central TV HD     | <img height="30" src="https://i.imgur.com/LqGT8o9.png"/> |
@@ -39,5 +39,6 @@
 | 31   | Rik TV HD     | <img height="30" src="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-1-768x768.png"/> |
 | 32   | Turbo TV HD     | <img height="30" src="https://turbotv.sk/wp-content/themes/turbotv/public/images/logo-turbotv.png"/> |
 | 33   | Park TV HD     | <img height="30" src="https://digital.rozhlas.cz/sites/default/files/images/03938225.png"/> |
-| 34   | Tanečné súťaže HD     | <img height="30" src="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg"/> |
+| 34   | Tanečné súťaže HD     | <img height="70" src="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg"/> |
 | 35   | Infokanál Tizen HD     | nemá logo ani spojení se snímkem ze streamu |
+| 36   | JBL Jump Fest HD     | <img height="70" src="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/9a1e58cfaf378b5733bd78fa2a39c73e.svg"/> |
