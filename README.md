@@ -15,7 +15,7 @@ Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze v
 
 ### Přehled aktualizací a novinek
 **- 18. červen 2024, 7:56**
-*zvýšená plynulost kanálu HBO*
+*zvýšená plynulost kanálu HBO / obnoveny kanály HBO 2 a HBO 3*
 
 **- 18. červen 2024, 6:50**
 *obnoveny kanály Filmboxu a O2 TV Sport*
