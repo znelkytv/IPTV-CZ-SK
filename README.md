@@ -14,6 +14,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 18. červen 2024, 6:50**
+*obnoveny kanály Filmboxu a O2 Sport
+
 **- 17. červen 2024, 19:57**
 *obnoveny kanály Seznam TV, Nova Sport 5 a Nova Sport 6*
 
