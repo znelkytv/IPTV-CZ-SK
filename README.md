@@ -14,6 +14,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 18. červen 2024, 17:13**
+*přidán kanál JBL Jump Fest*
+
 **- 18. červen 2024, 8:49**
 *obnoveny kanály Disney Channel a LALA TV*
 
