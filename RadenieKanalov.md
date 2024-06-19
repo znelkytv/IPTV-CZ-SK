@@ -20,8 +20,8 @@
 | 12   | Prima Love SK HD (v príprave)    | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/8/82/Prima_Love_SK.svg"/> |
 | 13   | Prima Cool SK HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Prima_Cool_SK.svg"/> |
 | 14   | JOJ HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/a/a2/Tv_joj_2020.svg"/> |
-| 15   | JOJ Plus HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/a/a3/JOJ_Plus_2020.svg"/> |
-| 16   | JOJ Wau HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/JOJ_WAU.svg"/> |
+| 15   | Plus HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/a/a3/JOJ_Plus_2020.svg"/> |
+| 16   | Wau HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/JOJ_WAU.svg"/> |
 | 17   | JOJ 24 HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/9/94/JOJ_24.svg"/> |
 | 18   | JOJ Šport HD   | <img height="40" src="https://static.wikia.nocookie.net/logopedia/images/6/6f/JOJ_%C5%A0port.svg"/> |
 | 19   | JOJ Svet HD     | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/8/8f/JOJ_Svet.svg"/> |
