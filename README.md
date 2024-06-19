@@ -15,6 +15,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 19. červen 2024, 14:07**
+*přidán kanál Disney Junior*
+
 **- 18. červen 2024, 19:43**
 *přidány kanály Premier Sport 2, Premier Sport 3, Premier Sport 4 / obnoven kanál Premier Sport 1*
 
