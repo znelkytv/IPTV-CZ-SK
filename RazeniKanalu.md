@@ -58,32 +58,33 @@
 | 50   | Minimax     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/minimax.png"/> |
 | 51   | JimJam     | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/jim-jam.png"/> |
 | 52   | Disney Channel    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/disney-2.png"/> |
-| 53   | LALA TV    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/lala.png"/> |
-| 54   | CS Film/Horror    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-film-2.png"/> <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-horror.png"/> |
-| 55   | CS Mystery    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-mystery.png"/> |
-| 56   | CS History    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-history.png"/> |
-| 57   | JOJ Family    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/joj.png"/> |
-| 58   | JOJ Cinema    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/joj-cinema.png"/> |
-| 59   | HBO    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/hbo.png"/> |
-| 60   | HBO 2    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/hbo-2.png"/> |
-| 61   | HBO 3    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/hbo-3.png"/> |
-| 62   | Filmbox    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/filmbox.png"/> |
-| 63   | Filmbox Premium    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/filmbox-premium.png"/> |
-| 64   | Filmbox Extra    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/182.png"/> |
-| 65   | Filmbox Stars    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/76.png"/> |
-| 66   | Filmbox Family    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/filmbox-family.png"/> |
-| 67   | Filmbox Arthouse    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/982.png"/> |
-| 64   | Docubox    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/733.png"/> |
-| 65   | Fightbox    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/590.png"/> |
-| 66   | Fashionbox    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/734.png"/> |
-| 67   | Fast&Fun Box    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/983.png"/> |
-| 68   | AMC    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/amc.png"/> |
-| 69   | Film+    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/film-plus-2.png"/> |
-| 70   | Cinemax    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cinemax.png"/> |
-| 71   | Cinemax 2    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cinemax-2.png"/> |
-| 72   | AXN    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/axn.png"/> |
-| 73   | Film Europe    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/film-europe.png"/> |
-| 74   | Film Europe +    | <img height="30" src="https://www.kukitv.sk/media/media_img/logo_filmeurope22.png"/> |
-| 75   | Epic Drama    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/epic-drama.png"/> |
-| 76   | Story4    | <img height="30" src="https://static.wikia.nocookie.net/tvfanon6528/images/9/91/Story_4_%282018-.n.v.%29.png/revision/latest?cb=20200223081150"/> |
+| 53   | Disney Junior   | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png"/> |
+| 54   | LALA TV    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/lala.png"/> |
+| 55   | CS Film/Horror    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-film-2.png"/> <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-horror.png"/> |
+| 56   | CS Mystery    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-mystery.png"/> |
+| 57   | CS History    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cs-history.png"/> |
+| 58   | JOJ Family    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/joj.png"/> |
+| 59   | JOJ Cinema    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/joj-cinema.png"/> |
+| 60   | HBO    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/hbo.png"/> |
+| 61   | HBO 2    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/hbo-2.png"/> |
+| 62   | HBO 3    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/hbo-3.png"/> |
+| 63   | Filmbox    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/filmbox.png"/> |
+| 64   | Filmbox Premium    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/filmbox-premium.png"/> |
+| 65   | Filmbox Extra    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/182.png"/> |
+| 66   | Filmbox Stars    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/76.png"/> |
+| 67   | Filmbox Family    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/filmbox-family.png"/> |
+| 68   | Filmbox Arthouse    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/982.png"/> |
+| 69   | Docubox    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/733.png"/> |
+| 70   | Fightbox    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/590.png"/> |
+| 71   | Fashionbox    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/734.png"/> |
+| 72   | Fast&Fun Box    | <img height="30" src="https://c.sledujfilmbox.cz/files/epg/tv/983.png"/> |
+| 73   | AMC    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/amc.png"/> |
+| 74   | Film+    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/film-plus-2.png"/> |
+| 75   | Cinemax    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cinemax.png"/> |
+| 76   | Cinemax 2    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/cinemax-2.png"/> |
+| 77   | AXN    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/axn.png"/> |
+| 78   | Film Europe    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/film-europe.png"/> |
+| 79   | Film Europe +    | <img height="30" src="https://www.kukitv.sk/media/media_img/logo_filmeurope22.png"/> |
+| 80   | Epic Drama    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/epic-drama.png"/> |
+| 81   | Story4    | <img height="30" src="https://static.wikia.nocookie.net/tvfanon6528/images/9/91/Story_4_%282018-.n.v.%29.png/revision/latest?cb=20200223081150"/> |
 | -   | iVysílání Extra HD     | <img height="15" src="https://ctfs.ceskatelevize.cz/static/v8.7/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ctsportextra.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ct24plus.svg"/> |
