@@ -67,13 +67,13 @@ https://dash2.antik.sk/live/test_relax/playlist.m3u8
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Filmy a seriály / Movies and serials",TV Barrandov HD
 http://88.212.7.10/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://github.com/MarhyCZ/picons/blob/master/640/premiersporthd.png" group-title="Sportovní / Sport",Premier Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/premiersport.png" group-title="Sportovní / Sport",Premier Sport 1 HD
 http://82.202.173.201:25461/okverd/123456/100
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sportovní / Sport",Premier Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/sleduj-tv/loga/main/picony/ps2.png" group-title="Sportovní / Sport",Premier Sport 2 HD
 http://82.202.173.201:25461/okverd/123456/101
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sportovní / Sport",Premier Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/sleduj-tv/loga/main/picony/ps3png" group-title="Sportovní / Sport",Premier Sport 3 HD
 http://82.202.173.201:25461/okverd/123456/16117
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sportovní / Sport",Premier Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/sleduj-tv/loga/main/picony/ps4.png" group-title="Sportovní / Sport",Premier Sport 4 HD
 http://82.202.173.201:25461/okverd/123456/16143
 #EXTINF:-1 tvg-id="O2TVSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/o2tvsport.png" group-title="Sportovní / Sport",O2 TV Sport HD
 https://panel.beststream.xyz/test_o2tvsport/index.m3u8
