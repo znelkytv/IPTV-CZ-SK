@@ -101,6 +101,8 @@ http://88.212.7.10/live/test_minimax/playlist.m3u8
 http://88.212.7.10/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1032-disney-channel.png" group-title="Pro děti / For kids",Disney Channel
 http://88.212.7.10/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Pro děti / For kids",Disney Junior
+http://88.212.7.10/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="LALATV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Pro děti / For kids",LALA TV
 http://88.212.7.10/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror HD
