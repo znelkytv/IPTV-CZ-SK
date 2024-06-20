@@ -15,6 +15,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 20. červen 2024, 8:23**
+*obnoven kanál Filmbox Arthouse*
+
 **- 20. červen 2024, 7:50**
 *obnoven kanál Paramount Network*
 
