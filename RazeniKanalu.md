@@ -104,3 +104,24 @@
 | 96   | REBEL    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/rebel.png"/> |
 | 97   | Retro Music Television    | <img height="30" src="https://raw.githubusercontent.com/znelkytv/Icons/main/retroTransparent.png"/> |
 | 98   | 360TuneBox    | <img height="30" src="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png"/> |
+| 99   | Šlágr Originál (Šlágr 1)    | <img height="30" src="https://slagrtv.cz/img/slagr-original-2-logo.png"/> |
+| 100   | Šlágr Muzika (Šlágr 2)    | <img height="30" src="https://slagrtv.cz/img/slagr-muzika-2-logo.png"/> |
+| 101   | Šlágr Premium    | <img height="30" src="https://slagrtv.cz/img/slagr-premium-2-logo.png"/> |
+| 102   | TV Paprika     | <img height="20" src="https://static.wikia.nocookie.net/dreamlogos/images/0/0c/Tv-paprika-logo-2021.png/revision/latest?cb=20220214225827"/> |
+| 103   | Food Network    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/food-network.png"/> |
+| 104   | Mňam TV    | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/4/4e/Mňam_TV.svg/revision/latest?cb=20210627163800"/> |
+| 105   | Mňau TV    | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/9/98/Mňau_TV.svg/revision/latest?cb=20210627165425"/> |
+| 106   | Hobby TV    | <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/d/d7/Hobby_TV.svg/revision/latest?cb=20210627152828"/> |
+| 107   | Spektrum Home    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png"/> |
+| 108   | TV Noe    | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Noe-logo-2016.png"/> |
+| 109   | TV Noe+    | <img height="30" src="https://tse2.mm.bing.net/th?id=OIP.cC9jrOpq4VTv9_u2Rldv1wHaE-&pid=Api&P=0&h=180"/> |
+| 110   | ČT1 JM     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
+| 111   | ČT1 SM     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
+| 112   | ČT1 SVC     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
+| 113   | ČT1 JZC     | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> |
+| 114   | Polar     | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TV_Polar.svg"/> |
+| 115   | Polar 2     | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TV_Polar.svg"/> |
+| 116   | Polar Extra     | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TV_Polar.svg"/> |
+| 117   | Praha TV     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/praha.png"/> |
+| 118   | TV Brno 1     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/brno.png"/> |
+| 119   | Východočeská televize V1     | <img height="20" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/v1.png"/> |
