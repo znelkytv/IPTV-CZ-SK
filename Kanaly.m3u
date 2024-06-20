@@ -59,8 +59,10 @@ http://88.212.7.10/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.7.10/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Zpravodajské / News",CNN Prima News HD
 http://88.212.7.10/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/paramountnetwork.png" group-title="Filmy a seriály / Movies and serials",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/paramountnetwork.png" group-title="Filmy a seriály / Movies and serials",Paramount Network HD
 http://88.212.7.10/live/test_paramount_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/sleduj-tv/loga/main/picony/wb_tv.png" group-title="Filmy a seriály / Movies and serials",Warner TV HD
+http://88.212.7.10/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="SeznamczTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV HD
 http://88.212.7.10/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Relax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
@@ -90,7 +92,7 @@ http://88.212.7.10/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD
 http://88.212.7.10/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="SportyTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sportovní / Sport",Sporty TV HD
-https://stream.moderntv.eu/stream.m3u8?content-id=channel%3Asporty_tv&content-expiration=1719238260&user-id=1619465989&device-id=1984527775&device-type=androidportable&signature-ip=46.151.56.105&stream-quality=40&stream-format=m3u8&player-capabilities=clientvast%2Cadaptive2%2Cwebvtt%2Ch265&drm-system=&decision-tags=cdpMain&ott=1&parallel-limit=2&lang=en&signature-expiration=1719238260&signature-hash=7bccda363bfda0171eded28decc325145b6dd16aa131e1d38c38d71773f0f8e3
+http://88.212.7.10/live/sporty_tv/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Pro děti / For kids",Nickelodeon
 http://88.212.7.10/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NICKJRTHOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickjr.png" group-title="Pro děti / For kids",Nick Jr.
