@@ -15,6 +15,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 20. červen 2024, 15:07**
+*upravena kapacita stanice Prima Cool (česká verze)*
+
 **- 20. červen 2024, 14:51**
 *přidán kanál Warner TV / upraven kanál Sporty TV*
 
