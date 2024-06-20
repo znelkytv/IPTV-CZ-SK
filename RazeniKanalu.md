@@ -87,4 +87,3 @@
 | 79   | Film Europe +    | <img height="30" src="https://www.kukitv.sk/media/media_img/logo_filmeurope22.png"/> |
 | 80   | Epic Drama    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/epic-drama.png"/> |
 | 81   | Story4    | <img height="30" src="https://static.wikia.nocookie.net/tvfanon6528/images/9/91/Story_4_%282018-.n.v.%29.png/revision/latest?cb=20200223081150"/> |
-| -   | iVysílání Extra HD     | <img height="15" src="https://ctfs.ceskatelevize.cz/static/v8.7/assets/images/ivysilani.40364905e6d8c597d722605b08a95b0d.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ctsportextra.svg"/> <img height="15" src="https://ctfs.ceskatelevize.cz/static/channels/ct24plus.svg"/> |
