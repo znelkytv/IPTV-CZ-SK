@@ -5,7 +5,7 @@ Vyjádření televize: Projekt „IPTV Czech“ porušuje autorská práva naš�
 
 ## Další informace o této IPTV: 
 
-**Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a já ho pak přidám do nabídky.**
+**Chcete přidat kanál, který není v seznamu a máte na něj link? Vytvořte v Issues záložku, tam link odešlete a pak bude přidán do nabídky.**
 
 ### Všechny playlisty si můžete stáhnout zde:
 https://github.com/znelkytv/IPTV-CZ-SK/raw/main/Kanaly.m3u
@@ -15,6 +15,9 @@ https://github.com/znelkytv/IPTV-CZ-SK/raw/main/KanalySK.m3u
 Je to také jednoduchá možnost bez stahování při každé aktualizaci. Lze využít i možnost tlačítka RAW u každého playlistu.
 
 ### Přehled aktualizací a novinek
+**- 20. červen 2024, 7:50**
+*obnoven kanál Paramount Network*
+
 **- 19. červen 2024, 14:07**
 *přidán kanál Disney Junior*
 
