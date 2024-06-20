@@ -59,6 +59,8 @@ http://88.212.7.10/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.7.10/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Zpravodajské / News",CNN Prima News HD
 http://88.212.7.10/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/paramountnetwork.png" group-title="Filmy a seriály / Movies and serials",Paramount Network
+http://88.212.7.10/live/test_paramount_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="SeznamczTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV HD
 http://88.212.7.10/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Relax(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
