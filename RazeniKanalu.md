@@ -87,3 +87,20 @@
 | 79   | Film Europe +    | <img height="30" src="https://www.kukitv.sk/media/media_img/logo_filmeurope22.png"/> |
 | 80   | Epic Drama    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/epic.png"/> |
 | 81   | Story4    | <img height="30" src="https://static.wikia.nocookie.net/tvfanon6528/images/9/91/Story_4_%282018-.n.v.%29.png/revision/latest?cb=20200223081150"/> |
+| 82   | TravelXP    | <img height="30" src="bude dodáno"/> |
+| 83   | Love Nature    | <img height="30" src="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"/> |
+| 84   | National Geographic    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/national-geographic.png"/> |
+| 85   | Nat Geo Wild    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/nat-geo-wild.png"/> |
+| 86   | Spektrum    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum.png"/> |
+| 87   | History    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/history-2.png"/> |
+| 88   | History 2    | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg"/> |
+| 89   | Viasat Nature    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/viasat-nature.png"/> |
+| 90   | Viasat History    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/viasat-history.png"/> |
+| 91   | Viasat Explore    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/viasat-explore.png"/> |
+| 92   | Óčko    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko.png"/> |
+| 93   | Óčko Star    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko-star.png"/> |
+| 94   | Óčko Expres    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko-expres.png"/> |
+| 95   | Óčko Black    | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Ockoblacktransparent.png"/> |
+| 96   | REBEL    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/rebel.png"/> |
+| 97   | Retro Music Television    | <img height="30" src="https://raw.githubusercontent.com/znelkytv/Icons/main/retroTransparent.png"/> |
+| 98   | 360TuneBox    | <img height="30" src="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png.png"/> |
