@@ -103,4 +103,4 @@
 | 95   | Óčko Black    | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Ockoblacktransparent.png"/> |
 | 96   | REBEL    | <img height="30" src="https://telly.cz/wp-content/themes/telly/dist/images/channel/rebel.png"/> |
 | 97   | Retro Music Television    | <img height="30" src="https://raw.githubusercontent.com/znelkytv/Icons/main/retroTransparent.png"/> |
-| 98   | 360TuneBox    | <img height="30" src="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png.png"/> |
+| 98   | 360TuneBox    | <img height="30" src="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png"/> |
