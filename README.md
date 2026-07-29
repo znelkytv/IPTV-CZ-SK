@@ -1,1 +1,2 @@
-Onedlho sa budu obnovovat doplnky znelkyhotv na mojom ucte, kedze jemu hrozi perma ban (sleduj-tv)
+### Televize zdarma
+Online televize s českými a slovenskými programy bez poplatků.
